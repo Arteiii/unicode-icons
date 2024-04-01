@@ -1,4 +1,4 @@
-use unicode_icons::{checkmarks, flags, copyright};
+use unicode_icons::{checkmarks, copyright, flags};
 
 fn main() {
     println!("Default Checkmark: {}", checkmarks::default()); // output: ✓

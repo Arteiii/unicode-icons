@@ -10,7 +10,6 @@
 ///
 /// **Copyright (c) 2024 Ben**
 mod icons;
-pub use icons::{checkmarks, flags, copyright};
-
+pub use icons::{checkmarks, copyright, flags};
 
 // from https://www.alt-codes.net/flags and others idk rn

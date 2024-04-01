@@ -1,4 +1,3 @@
-
 /// returns the Unicode cross mark icon:
 /// ✓ (U+2713)
 pub fn default() -> String {

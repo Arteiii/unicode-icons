@@ -1,4 +1,3 @@
-
 /// returns the Unicode cross mark icon:
 /// 🌈 (U+1F308)
 pub fn rainbow() -> String {
