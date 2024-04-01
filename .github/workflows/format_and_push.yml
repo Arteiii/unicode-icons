@@ -1,7 +1,3 @@
-"""
-automates code formatting using cargo fmt and pushes changes in pull requests
-"""
-
 name: Format Code and Push Changes
 
 on:

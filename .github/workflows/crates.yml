@@ -1,7 +1,3 @@
-"""
-automates version update in cargo.toml after creating a github tag and pushing to main branch
-"""
-
 name: Update Cargo.toml Version
 
 on:
