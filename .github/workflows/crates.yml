@@ -1,0 +1,62 @@
+"""
+automates version update in cargo.toml after creating a github tag and pushing to main branch
+"""
+
+name: Update Cargo.toml Version
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  update_version:
+    name: Update Cargo.toml Version
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Rust
+        uses: actions/setup-rust@v1
+        with:
+          toolchain: stable
+
+      - name: Update Cargo.toml Version
+        run: |
+          # Extract version from tag
+          VERSION=$(echo "${GITHUB_REF#refs/tags/}")
+
+          # Update Cargo.toml with new version
+          sed -i'' -e "s/^version = \".*\"/version = \"$VERSION\"/" Cargo.toml
+
+          # Commit changes
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -am "Bump version to $VERSION"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+  publish_to_crates:
+    name: Publish to Cargo Crates
+    runs-on: ubuntu-latest
+    needs: update_version
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Rust
+        uses: actions/setup-rust@v1
+        with:
+          toolchain: stable
+
+      - name: Login to Cargo
+        run: cargo login --registry https://crates.io --token ${{ secrets.CARGO_TOKEN }}
+
+      - name: Publish Crate
+        run: cargo publish

@@ -7,7 +7,10 @@ fn main() {
     println!("Light Checkmark: {} ", checkmarks::light());
     println!("Not Checkmark: {} ", checkmarks::not());
     println!("Ballot Box Checkmark: {} ", checkmarks::ballot_box());
-    println!("Ballot Box with Bold Checkmark: {} ", checkmarks::ballot_box_with_bold());
+    println!(
+        "Ballot Box with Bold Checkmark: {} ",
+        checkmarks::ballot_box_with_bold()
+    );
     println!("Aegean Checkmark: {} ", checkmarks::aegean());
 
     println!("Rainbow Flag: {} ", flags::rainbow());
@@ -17,11 +20,15 @@ fn main() {
     println!("Triangular Flag: {} ", flags::triangular());
     println!("Chequered Flag: {} ", flags::chequered());
     println!("Crossed Flag: {} ", flags::crossed());
+    println!("Cedy Flag: {} ", flags::cedy());
 
     println!("Copyright Default: {} ", copyright::default());
 
     println!("Double Exclamation: {} ", punctuation::double_exclamation());
-    println!("Exclamation Question: {} ", punctuation::exclamation_question());
+    println!(
+        "Exclamation Question: {} ",
+        punctuation::exclamation_question()
+    );
     println!("Red Question: {} ", punctuation::red_question());
     println!("White Question: {} ", punctuation::white_question());
     println!("White Exclamation: {} ", punctuation::white_exclamation());

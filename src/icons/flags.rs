@@ -39,3 +39,9 @@ pub fn chequered() -> String {
 pub fn crossed() -> String {
     "\u{1F38C}".to_string()
 }
+
+/// returns the Unicode icon:
+/// 🏳️‍⚧️ (U+1F3F3 U+FE0F U+200D U+26A7 U+FE0F)
+pub fn cedy() -> String {
+    "\u{1F3F3}\u{FE0F}\u{200D}\u{26A7}\u{FE0F}".to_string()
+}
