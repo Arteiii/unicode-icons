@@ -10,6 +10,6 @@
 ///
 /// **Copyright (c) 2024 Ben**
 mod icons;
-pub use icons::{checkmarks, copyright, flags};
+pub use icons::{checkmarks, copyright, flags, punctuation};
 
-// from https://www.alt-codes.net/flags and others idk rn
+// from https://www.unicode.org/emoji/charts/full-emoji-list.html and others idk rn
