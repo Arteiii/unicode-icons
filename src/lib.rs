@@ -15,6 +15,27 @@
 //! * [Symbols](./symbols/index.html)
 //! * [Travel & Places](./travel_and_places/index.html)
 //!
+//! ## Usage
+//!
+//! ````rust
+//! // examples/main.rs
+//!
+//! use unicode_icons::{activities, flags};
+//!
+//! fn main() {
+//!     println!("Christmas Tree: {}", activities::christmas_tree());
+//!     println!("Rainbow Flag: {}", flags::rainbow_flag());
+//! }
+//! ````
+//!
+//! ### Output
+//!
+//! ````shell
+//! $ cargo run --example main
+//!     Christmas Tree: 🎄
+//!     Rainbow Flag: 🏳️‍🌈
+//! ````
+//!
 //! ## License
 //!
 //! This project is licensed under the **MIT** License.
