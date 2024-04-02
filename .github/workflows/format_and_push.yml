@@ -14,9 +14,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
         
-      - name: Pull changes
-        run: git pull --no-rebase origin 1.0.0
-        
       - name: Set up Rust
         uses: moonrepo/setup-rust@v1
         with:
@@ -42,6 +39,9 @@ jobs:
             echo "No changes to commit"
           fi
 
+      - name: Pull changes
+        run: git pull --no-rebase origin 1.0.0
+        
       - name: Push changes
         if: github.event_name == 'pull_request'
         uses: ad-m/github-push-action@master
