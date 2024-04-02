@@ -56,8 +56,7 @@ jobs:
         with:
           toolchain: stable
 
-      - name: Login to Cargo
-        run: cargo login --registry https://crates.io --token ${{ secrets.CARGO_TOKEN }}
-
-      - name: Publish Crate
-        run: cargo publish
+      - name: Login to Cargo and Publish
+        run: cargo publish --token ${CRATES_TOKEN}
+        env:
+          CRATES_TOKEN: ${{ secrets.CRATES_TOKEN }}
