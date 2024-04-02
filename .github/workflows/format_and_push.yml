@@ -23,7 +23,7 @@ jobs:
         run: cargo install cargo-edit
 
       - name: Format Code
-        run: cargo fmt -- --check
+        run: cargo fmt
 
       - name: Lint Code
         run: cargo clippy --all -- -D warnings
