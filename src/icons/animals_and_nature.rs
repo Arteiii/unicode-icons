@@ -474,7 +474,7 @@ pub fn sauropod() -> String {
 }
 
 /// T_Rex 🦖 (U+1F996)
-pub fn T_Rex() -> String {
+pub fn t_rex() -> String {
 	"\u{1F996}".to_string()
 }
 

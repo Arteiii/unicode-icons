@@ -38,1298 +38,1298 @@ pub fn pirate_flag() -> String {
 	"\u{1F3F4}\u{200D}\u{2620}\u{FE0F}".to_string()
 }
 
-/// flag__Ascension_Island 🇦🇨 (U+1F1E6 U+1F1E8)
-pub fn flag__Ascension_Island() -> String {
+/// flag_Ascension_Island 🇦🇨 (U+1F1E6 U+1F1E8)
+pub fn flag_ascension_island() -> String {
 	"\u{1F1E6}\u{1F1E8}".to_string()
 }
 
-/// flag__Andorra 🇦🇩 (U+1F1E6 U+1F1E9)
-pub fn flag__Andorra() -> String {
+/// flag_Andorra 🇦🇩 (U+1F1E6 U+1F1E9)
+pub fn flag_andorra() -> String {
 	"\u{1F1E6}\u{1F1E9}".to_string()
 }
 
-/// flag__United_Arab_Emirates 🇦🇪 (U+1F1E6 U+1F1EA)
-pub fn flag__United_Arab_Emirates() -> String {
+/// flag_United_Arab_Emirates 🇦🇪 (U+1F1E6 U+1F1EA)
+pub fn flag_united_arab_emirates() -> String {
 	"\u{1F1E6}\u{1F1EA}".to_string()
 }
 
-/// flag__Afghanistan 🇦🇫 (U+1F1E6 U+1F1EB)
-pub fn flag__Afghanistan() -> String {
+/// flag_Afghanistan 🇦🇫 (U+1F1E6 U+1F1EB)
+pub fn flag_afghanistan() -> String {
 	"\u{1F1E6}\u{1F1EB}".to_string()
 }
 
-/// flag__Antigua___Barbuda 🇦🇬 (U+1F1E6 U+1F1EC)
-pub fn flag__Antigua___Barbuda() -> String {
+/// flag_Antigua_Barbuda 🇦🇬 (U+1F1E6 U+1F1EC)
+pub fn flag_antigua_barbuda() -> String {
 	"\u{1F1E6}\u{1F1EC}".to_string()
 }
 
-/// flag__Anguilla 🇦🇮 (U+1F1E6 U+1F1EE)
-pub fn flag__Anguilla() -> String {
+/// flag_Anguilla 🇦🇮 (U+1F1E6 U+1F1EE)
+pub fn flag_anguilla() -> String {
 	"\u{1F1E6}\u{1F1EE}".to_string()
 }
 
-/// flag__Albania 🇦🇱 (U+1F1E6 U+1F1F1)
-pub fn flag__Albania() -> String {
+/// flag_Albania 🇦🇱 (U+1F1E6 U+1F1F1)
+pub fn flag_albania() -> String {
 	"\u{1F1E6}\u{1F1F1}".to_string()
 }
 
-/// flag__Armenia 🇦🇲 (U+1F1E6 U+1F1F2)
-pub fn flag__Armenia() -> String {
+/// flag_Armenia 🇦🇲 (U+1F1E6 U+1F1F2)
+pub fn flag_armenia() -> String {
 	"\u{1F1E6}\u{1F1F2}".to_string()
 }
 
-/// flag__Angola 🇦🇴 (U+1F1E6 U+1F1F4)
-pub fn flag__Angola() -> String {
+/// flag_Angola 🇦🇴 (U+1F1E6 U+1F1F4)
+pub fn flag_angola() -> String {
 	"\u{1F1E6}\u{1F1F4}".to_string()
 }
 
-/// flag__Antarctica 🇦🇶 (U+1F1E6 U+1F1F6)
-pub fn flag__Antarctica() -> String {
+/// flag_Antarctica 🇦🇶 (U+1F1E6 U+1F1F6)
+pub fn flag_antarctica() -> String {
 	"\u{1F1E6}\u{1F1F6}".to_string()
 }
 
-/// flag__Argentina 🇦🇷 (U+1F1E6 U+1F1F7)
-pub fn flag__Argentina() -> String {
+/// flag_Argentina 🇦🇷 (U+1F1E6 U+1F1F7)
+pub fn flag_argentina() -> String {
 	"\u{1F1E6}\u{1F1F7}".to_string()
 }
 
-/// flag__American_Samoa 🇦🇸 (U+1F1E6 U+1F1F8)
-pub fn flag__American_Samoa() -> String {
+/// flag_American_Samoa 🇦🇸 (U+1F1E6 U+1F1F8)
+pub fn flag_american_samoa() -> String {
 	"\u{1F1E6}\u{1F1F8}".to_string()
 }
 
-/// flag__Austria 🇦🇹 (U+1F1E6 U+1F1F9)
-pub fn flag__Austria() -> String {
+/// flag_Austria 🇦🇹 (U+1F1E6 U+1F1F9)
+pub fn flag_austria() -> String {
 	"\u{1F1E6}\u{1F1F9}".to_string()
 }
 
-/// flag__Australia 🇦🇺 (U+1F1E6 U+1F1FA)
-pub fn flag__Australia() -> String {
+/// flag_Australia 🇦🇺 (U+1F1E6 U+1F1FA)
+pub fn flag_australia() -> String {
 	"\u{1F1E6}\u{1F1FA}".to_string()
 }
 
-/// flag__Aruba 🇦🇼 (U+1F1E6 U+1F1FC)
-pub fn flag__Aruba() -> String {
+/// flag_Aruba 🇦🇼 (U+1F1E6 U+1F1FC)
+pub fn flag_aruba() -> String {
 	"\u{1F1E6}\u{1F1FC}".to_string()
 }
 
-/// flag___land_Islands 🇦🇽 (U+1F1E6 U+1F1FD)
-pub fn flag___land_Islands() -> String {
+/// flag_land_Islands 🇦🇽 (U+1F1E6 U+1F1FD)
+pub fn flag_land_islands() -> String {
 	"\u{1F1E6}\u{1F1FD}".to_string()
 }
 
-/// flag__Azerbaijan 🇦🇿 (U+1F1E6 U+1F1FF)
-pub fn flag__Azerbaijan() -> String {
+/// flag_Azerbaijan 🇦🇿 (U+1F1E6 U+1F1FF)
+pub fn flag_azerbaijan() -> String {
 	"\u{1F1E6}\u{1F1FF}".to_string()
 }
 
-/// flag__Bosnia___Herzegovina 🇧🇦 (U+1F1E7 U+1F1E6)
-pub fn flag__Bosnia___Herzegovina() -> String {
+/// flag_Bosnia_Herzegovina 🇧🇦 (U+1F1E7 U+1F1E6)
+pub fn flag_bosnia_herzegovina() -> String {
 	"\u{1F1E7}\u{1F1E6}".to_string()
 }
 
-/// flag__Barbados 🇧🇧 (U+1F1E7 U+1F1E7)
-pub fn flag__Barbados() -> String {
+/// flag_Barbados 🇧🇧 (U+1F1E7 U+1F1E7)
+pub fn flag_barbados() -> String {
 	"\u{1F1E7}\u{1F1E7}".to_string()
 }
 
-/// flag__Bangladesh 🇧🇩 (U+1F1E7 U+1F1E9)
-pub fn flag__Bangladesh() -> String {
+/// flag_Bangladesh 🇧🇩 (U+1F1E7 U+1F1E9)
+pub fn flag_bangladesh() -> String {
 	"\u{1F1E7}\u{1F1E9}".to_string()
 }
 
-/// flag__Belgium 🇧🇪 (U+1F1E7 U+1F1EA)
-pub fn flag__Belgium() -> String {
+/// flag_Belgium 🇧🇪 (U+1F1E7 U+1F1EA)
+pub fn flag_belgium() -> String {
 	"\u{1F1E7}\u{1F1EA}".to_string()
 }
 
-/// flag__Burkina_Faso 🇧🇫 (U+1F1E7 U+1F1EB)
-pub fn flag__Burkina_Faso() -> String {
+/// flag_Burkina_Faso 🇧🇫 (U+1F1E7 U+1F1EB)
+pub fn flag_burkina_faso() -> String {
 	"\u{1F1E7}\u{1F1EB}".to_string()
 }
 
-/// flag__Bulgaria 🇧🇬 (U+1F1E7 U+1F1EC)
-pub fn flag__Bulgaria() -> String {
+/// flag_Bulgaria 🇧🇬 (U+1F1E7 U+1F1EC)
+pub fn flag_bulgaria() -> String {
 	"\u{1F1E7}\u{1F1EC}".to_string()
 }
 
-/// flag__Bahrain 🇧🇭 (U+1F1E7 U+1F1ED)
-pub fn flag__Bahrain() -> String {
+/// flag_Bahrain 🇧🇭 (U+1F1E7 U+1F1ED)
+pub fn flag_bahrain() -> String {
 	"\u{1F1E7}\u{1F1ED}".to_string()
 }
 
-/// flag__Burundi 🇧🇮 (U+1F1E7 U+1F1EE)
-pub fn flag__Burundi() -> String {
+/// flag_Burundi 🇧🇮 (U+1F1E7 U+1F1EE)
+pub fn flag_burundi() -> String {
 	"\u{1F1E7}\u{1F1EE}".to_string()
 }
 
-/// flag__Benin 🇧🇯 (U+1F1E7 U+1F1EF)
-pub fn flag__Benin() -> String {
+/// flag_Benin 🇧🇯 (U+1F1E7 U+1F1EF)
+pub fn flag_benin() -> String {
 	"\u{1F1E7}\u{1F1EF}".to_string()
 }
 
-/// flag__St__Barth_lemy 🇧🇱 (U+1F1E7 U+1F1F1)
-pub fn flag__St__Barth_lemy() -> String {
+/// flag_St_Barth_lemy 🇧🇱 (U+1F1E7 U+1F1F1)
+pub fn flag_st_barth_lemy() -> String {
 	"\u{1F1E7}\u{1F1F1}".to_string()
 }
 
-/// flag__Bermuda 🇧🇲 (U+1F1E7 U+1F1F2)
-pub fn flag__Bermuda() -> String {
+/// flag_Bermuda 🇧🇲 (U+1F1E7 U+1F1F2)
+pub fn flag_bermuda() -> String {
 	"\u{1F1E7}\u{1F1F2}".to_string()
 }
 
-/// flag__Brunei 🇧🇳 (U+1F1E7 U+1F1F3)
-pub fn flag__Brunei() -> String {
+/// flag_Brunei 🇧🇳 (U+1F1E7 U+1F1F3)
+pub fn flag_brunei() -> String {
 	"\u{1F1E7}\u{1F1F3}".to_string()
 }
 
-/// flag__Bolivia 🇧🇴 (U+1F1E7 U+1F1F4)
-pub fn flag__Bolivia() -> String {
+/// flag_Bolivia 🇧🇴 (U+1F1E7 U+1F1F4)
+pub fn flag_bolivia() -> String {
 	"\u{1F1E7}\u{1F1F4}".to_string()
 }
 
-/// flag__Caribbean_Netherlands 🇧🇶 (U+1F1E7 U+1F1F6)
-pub fn flag__Caribbean_Netherlands() -> String {
+/// flag_Caribbean_Netherlands 🇧🇶 (U+1F1E7 U+1F1F6)
+pub fn flag_caribbean_netherlands() -> String {
 	"\u{1F1E7}\u{1F1F6}".to_string()
 }
 
-/// flag__Brazil 🇧🇷 (U+1F1E7 U+1F1F7)
-pub fn flag__Brazil() -> String {
+/// flag_Brazil 🇧🇷 (U+1F1E7 U+1F1F7)
+pub fn flag_brazil() -> String {
 	"\u{1F1E7}\u{1F1F7}".to_string()
 }
 
-/// flag__Bahamas 🇧🇸 (U+1F1E7 U+1F1F8)
-pub fn flag__Bahamas() -> String {
+/// flag_Bahamas 🇧🇸 (U+1F1E7 U+1F1F8)
+pub fn flag_bahamas() -> String {
 	"\u{1F1E7}\u{1F1F8}".to_string()
 }
 
-/// flag__Bhutan 🇧🇹 (U+1F1E7 U+1F1F9)
-pub fn flag__Bhutan() -> String {
+/// flag_Bhutan 🇧🇹 (U+1F1E7 U+1F1F9)
+pub fn flag_bhutan() -> String {
 	"\u{1F1E7}\u{1F1F9}".to_string()
 }
 
-/// flag__Bouvet_Island 🇧🇻 (U+1F1E7 U+1F1FB)
-pub fn flag__Bouvet_Island() -> String {
+/// flag_Bouvet_Island 🇧🇻 (U+1F1E7 U+1F1FB)
+pub fn flag_bouvet_island() -> String {
 	"\u{1F1E7}\u{1F1FB}".to_string()
 }
 
-/// flag__Botswana 🇧🇼 (U+1F1E7 U+1F1FC)
-pub fn flag__Botswana() -> String {
+/// flag_Botswana 🇧🇼 (U+1F1E7 U+1F1FC)
+pub fn flag_botswana() -> String {
 	"\u{1F1E7}\u{1F1FC}".to_string()
 }
 
-/// flag__Belarus 🇧🇾 (U+1F1E7 U+1F1FE)
-pub fn flag__Belarus() -> String {
+/// flag_Belarus 🇧🇾 (U+1F1E7 U+1F1FE)
+pub fn flag_belarus() -> String {
 	"\u{1F1E7}\u{1F1FE}".to_string()
 }
 
-/// flag__Belize 🇧🇿 (U+1F1E7 U+1F1FF)
-pub fn flag__Belize() -> String {
+/// flag_Belize 🇧🇿 (U+1F1E7 U+1F1FF)
+pub fn flag_belize() -> String {
 	"\u{1F1E7}\u{1F1FF}".to_string()
 }
 
-/// flag__Canada 🇨🇦 (U+1F1E8 U+1F1E6)
-pub fn flag__Canada() -> String {
+/// flag_Canada 🇨🇦 (U+1F1E8 U+1F1E6)
+pub fn flag_canada() -> String {
 	"\u{1F1E8}\u{1F1E6}".to_string()
 }
 
-/// flag__Cocos__Keeling__Islands 🇨🇨 (U+1F1E8 U+1F1E8)
-pub fn flag__Cocos__Keeling__Islands() -> String {
+/// flag_Cocos_Keeling_Islands 🇨🇨 (U+1F1E8 U+1F1E8)
+pub fn flag_cocos_keeling_islands() -> String {
 	"\u{1F1E8}\u{1F1E8}".to_string()
 }
 
-/// flag__Congo___Kinshasa 🇨🇩 (U+1F1E8 U+1F1E9)
-pub fn flag__Congo___Kinshasa() -> String {
+/// flag_Congo_Kinshasa 🇨🇩 (U+1F1E8 U+1F1E9)
+pub fn flag_congo_kinshasa() -> String {
 	"\u{1F1E8}\u{1F1E9}".to_string()
 }
 
-/// flag__Central_African_Republic 🇨🇫 (U+1F1E8 U+1F1EB)
-pub fn flag__Central_African_Republic() -> String {
+/// flag_Central_African_Republic 🇨🇫 (U+1F1E8 U+1F1EB)
+pub fn flag_central_african_republic() -> String {
 	"\u{1F1E8}\u{1F1EB}".to_string()
 }
 
-/// flag__Congo___Brazzaville 🇨🇬 (U+1F1E8 U+1F1EC)
-pub fn flag__Congo___Brazzaville() -> String {
+/// flag_Congo_Brazzaville 🇨🇬 (U+1F1E8 U+1F1EC)
+pub fn flag_congo_brazzaville() -> String {
 	"\u{1F1E8}\u{1F1EC}".to_string()
 }
 
-/// flag__Switzerland 🇨🇭 (U+1F1E8 U+1F1ED)
-pub fn flag__Switzerland() -> String {
+/// flag_Switzerland 🇨🇭 (U+1F1E8 U+1F1ED)
+pub fn flag_switzerland() -> String {
 	"\u{1F1E8}\u{1F1ED}".to_string()
 }
 
-/// flag__C_te_d_Ivoire 🇨🇮 (U+1F1E8 U+1F1EE)
-pub fn flag__C_te_d_Ivoire() -> String {
+/// flag_C_te_d_Ivoire 🇨🇮 (U+1F1E8 U+1F1EE)
+pub fn flag_c_te_d_ivoire() -> String {
 	"\u{1F1E8}\u{1F1EE}".to_string()
 }
 
-/// flag__Cook_Islands 🇨🇰 (U+1F1E8 U+1F1F0)
-pub fn flag__Cook_Islands() -> String {
+/// flag_Cook_Islands 🇨🇰 (U+1F1E8 U+1F1F0)
+pub fn flag_cook_islands() -> String {
 	"\u{1F1E8}\u{1F1F0}".to_string()
 }
 
-/// flag__Chile 🇨🇱 (U+1F1E8 U+1F1F1)
-pub fn flag__Chile() -> String {
+/// flag_Chile 🇨🇱 (U+1F1E8 U+1F1F1)
+pub fn flag_chile() -> String {
 	"\u{1F1E8}\u{1F1F1}".to_string()
 }
 
-/// flag__Cameroon 🇨🇲 (U+1F1E8 U+1F1F2)
-pub fn flag__Cameroon() -> String {
+/// flag_Cameroon 🇨🇲 (U+1F1E8 U+1F1F2)
+pub fn flag_cameroon() -> String {
 	"\u{1F1E8}\u{1F1F2}".to_string()
 }
 
-/// flag__China 🇨🇳 (U+1F1E8 U+1F1F3)
-pub fn flag__China() -> String {
+/// flag_China 🇨🇳 (U+1F1E8 U+1F1F3)
+pub fn flag_china() -> String {
 	"\u{1F1E8}\u{1F1F3}".to_string()
 }
 
-/// flag__Colombia 🇨🇴 (U+1F1E8 U+1F1F4)
-pub fn flag__Colombia() -> String {
+/// flag_Colombia 🇨🇴 (U+1F1E8 U+1F1F4)
+pub fn flag_colombia() -> String {
 	"\u{1F1E8}\u{1F1F4}".to_string()
 }
 
-/// flag__Clipperton_Island 🇨🇵 (U+1F1E8 U+1F1F5)
-pub fn flag__Clipperton_Island() -> String {
+/// flag_Clipperton_Island 🇨🇵 (U+1F1E8 U+1F1F5)
+pub fn flag_clipperton_island() -> String {
 	"\u{1F1E8}\u{1F1F5}".to_string()
 }
 
-/// flag__Costa_Rica 🇨🇷 (U+1F1E8 U+1F1F7)
-pub fn flag__Costa_Rica() -> String {
+/// flag_Costa_Rica 🇨🇷 (U+1F1E8 U+1F1F7)
+pub fn flag_costa_rica() -> String {
 	"\u{1F1E8}\u{1F1F7}".to_string()
 }
 
-/// flag__Cuba 🇨🇺 (U+1F1E8 U+1F1FA)
-pub fn flag__Cuba() -> String {
+/// flag_Cuba 🇨🇺 (U+1F1E8 U+1F1FA)
+pub fn flag_cuba() -> String {
 	"\u{1F1E8}\u{1F1FA}".to_string()
 }
 
-/// flag__Cape_Verde 🇨🇻 (U+1F1E8 U+1F1FB)
-pub fn flag__Cape_Verde() -> String {
+/// flag_Cape_Verde 🇨🇻 (U+1F1E8 U+1F1FB)
+pub fn flag_cape_verde() -> String {
 	"\u{1F1E8}\u{1F1FB}".to_string()
 }
 
-/// flag__Cura_ao 🇨🇼 (U+1F1E8 U+1F1FC)
-pub fn flag__Cura_ao() -> String {
+/// flag_Cura_ao 🇨🇼 (U+1F1E8 U+1F1FC)
+pub fn flag_cura_ao() -> String {
 	"\u{1F1E8}\u{1F1FC}".to_string()
 }
 
-/// flag__Christmas_Island 🇨🇽 (U+1F1E8 U+1F1FD)
-pub fn flag__Christmas_Island() -> String {
+/// flag_Christmas_Island 🇨🇽 (U+1F1E8 U+1F1FD)
+pub fn flag_christmas_island() -> String {
 	"\u{1F1E8}\u{1F1FD}".to_string()
 }
 
-/// flag__Cyprus 🇨🇾 (U+1F1E8 U+1F1FE)
-pub fn flag__Cyprus() -> String {
+/// flag_Cyprus 🇨🇾 (U+1F1E8 U+1F1FE)
+pub fn flag_cyprus() -> String {
 	"\u{1F1E8}\u{1F1FE}".to_string()
 }
 
-/// flag__Czechia 🇨🇿 (U+1F1E8 U+1F1FF)
-pub fn flag__Czechia() -> String {
+/// flag_Czechia 🇨🇿 (U+1F1E8 U+1F1FF)
+pub fn flag_czechia() -> String {
 	"\u{1F1E8}\u{1F1FF}".to_string()
 }
 
-/// flag__Germany 🇩🇪 (U+1F1E9 U+1F1EA)
-pub fn flag__Germany() -> String {
+/// flag_Germany 🇩🇪 (U+1F1E9 U+1F1EA)
+pub fn flag_germany() -> String {
 	"\u{1F1E9}\u{1F1EA}".to_string()
 }
 
-/// flag__Diego_Garcia 🇩🇬 (U+1F1E9 U+1F1EC)
-pub fn flag__Diego_Garcia() -> String {
+/// flag_Diego_Garcia 🇩🇬 (U+1F1E9 U+1F1EC)
+pub fn flag_diego_garcia() -> String {
 	"\u{1F1E9}\u{1F1EC}".to_string()
 }
 
-/// flag__Djibouti 🇩🇯 (U+1F1E9 U+1F1EF)
-pub fn flag__Djibouti() -> String {
+/// flag_Djibouti 🇩🇯 (U+1F1E9 U+1F1EF)
+pub fn flag_djibouti() -> String {
 	"\u{1F1E9}\u{1F1EF}".to_string()
 }
 
-/// flag__Denmark 🇩🇰 (U+1F1E9 U+1F1F0)
-pub fn flag__Denmark() -> String {
+/// flag_Denmark 🇩🇰 (U+1F1E9 U+1F1F0)
+pub fn flag_denmark() -> String {
 	"\u{1F1E9}\u{1F1F0}".to_string()
 }
 
-/// flag__Dominica 🇩🇲 (U+1F1E9 U+1F1F2)
-pub fn flag__Dominica() -> String {
+/// flag_Dominica 🇩🇲 (U+1F1E9 U+1F1F2)
+pub fn flag_dominica() -> String {
 	"\u{1F1E9}\u{1F1F2}".to_string()
 }
 
-/// flag__Dominican_Republic 🇩🇴 (U+1F1E9 U+1F1F4)
-pub fn flag__Dominican_Republic() -> String {
+/// flag_Dominican_Republic 🇩🇴 (U+1F1E9 U+1F1F4)
+pub fn flag_dominican_republic() -> String {
 	"\u{1F1E9}\u{1F1F4}".to_string()
 }
 
-/// flag__Algeria 🇩🇿 (U+1F1E9 U+1F1FF)
-pub fn flag__Algeria() -> String {
+/// flag_Algeria 🇩🇿 (U+1F1E9 U+1F1FF)
+pub fn flag_algeria() -> String {
 	"\u{1F1E9}\u{1F1FF}".to_string()
 }
 
-/// flag__Ceuta___Melilla 🇪🇦 (U+1F1EA U+1F1E6)
-pub fn flag__Ceuta___Melilla() -> String {
+/// flag_Ceuta_Melilla 🇪🇦 (U+1F1EA U+1F1E6)
+pub fn flag_ceuta_melilla() -> String {
 	"\u{1F1EA}\u{1F1E6}".to_string()
 }
 
-/// flag__Ecuador 🇪🇨 (U+1F1EA U+1F1E8)
-pub fn flag__Ecuador() -> String {
+/// flag_Ecuador 🇪🇨 (U+1F1EA U+1F1E8)
+pub fn flag_ecuador() -> String {
 	"\u{1F1EA}\u{1F1E8}".to_string()
 }
 
-/// flag__Estonia 🇪🇪 (U+1F1EA U+1F1EA)
-pub fn flag__Estonia() -> String {
+/// flag_Estonia 🇪🇪 (U+1F1EA U+1F1EA)
+pub fn flag_estonia() -> String {
 	"\u{1F1EA}\u{1F1EA}".to_string()
 }
 
-/// flag__Egypt 🇪🇬 (U+1F1EA U+1F1EC)
-pub fn flag__Egypt() -> String {
+/// flag_Egypt 🇪🇬 (U+1F1EA U+1F1EC)
+pub fn flag_egypt() -> String {
 	"\u{1F1EA}\u{1F1EC}".to_string()
 }
 
-/// flag__Western_Sahara 🇪🇭 (U+1F1EA U+1F1ED)
-pub fn flag__Western_Sahara() -> String {
+/// flag_Western_Sahara 🇪🇭 (U+1F1EA U+1F1ED)
+pub fn flag_western_sahara() -> String {
 	"\u{1F1EA}\u{1F1ED}".to_string()
 }
 
-/// flag__Eritrea 🇪🇷 (U+1F1EA U+1F1F7)
-pub fn flag__Eritrea() -> String {
+/// flag_Eritrea 🇪🇷 (U+1F1EA U+1F1F7)
+pub fn flag_eritrea() -> String {
 	"\u{1F1EA}\u{1F1F7}".to_string()
 }
 
-/// flag__Spain 🇪🇸 (U+1F1EA U+1F1F8)
-pub fn flag__Spain() -> String {
+/// flag_Spain 🇪🇸 (U+1F1EA U+1F1F8)
+pub fn flag_spain() -> String {
 	"\u{1F1EA}\u{1F1F8}".to_string()
 }
 
-/// flag__Ethiopia 🇪🇹 (U+1F1EA U+1F1F9)
-pub fn flag__Ethiopia() -> String {
+/// flag_Ethiopia 🇪🇹 (U+1F1EA U+1F1F9)
+pub fn flag_ethiopia() -> String {
 	"\u{1F1EA}\u{1F1F9}".to_string()
 }
 
-/// flag__European_Union 🇪🇺 (U+1F1EA U+1F1FA)
-pub fn flag__European_Union() -> String {
+/// flag_European_Union 🇪🇺 (U+1F1EA U+1F1FA)
+pub fn flag_european_union() -> String {
 	"\u{1F1EA}\u{1F1FA}".to_string()
 }
 
-/// flag__Finland 🇫🇮 (U+1F1EB U+1F1EE)
-pub fn flag__Finland() -> String {
+/// flag_Finland 🇫🇮 (U+1F1EB U+1F1EE)
+pub fn flag_finland() -> String {
 	"\u{1F1EB}\u{1F1EE}".to_string()
 }
 
-/// flag__Fiji 🇫🇯 (U+1F1EB U+1F1EF)
-pub fn flag__Fiji() -> String {
+/// flag_Fiji 🇫🇯 (U+1F1EB U+1F1EF)
+pub fn flag_fiji() -> String {
 	"\u{1F1EB}\u{1F1EF}".to_string()
 }
 
-/// flag__Falkland_Islands 🇫🇰 (U+1F1EB U+1F1F0)
-pub fn flag__Falkland_Islands() -> String {
+/// flag_Falkland_Islands 🇫🇰 (U+1F1EB U+1F1F0)
+pub fn flag_falkland_islands() -> String {
 	"\u{1F1EB}\u{1F1F0}".to_string()
 }
 
-/// flag__Micronesia 🇫🇲 (U+1F1EB U+1F1F2)
-pub fn flag__Micronesia() -> String {
+/// flag_Micronesia 🇫🇲 (U+1F1EB U+1F1F2)
+pub fn flag_micronesia() -> String {
 	"\u{1F1EB}\u{1F1F2}".to_string()
 }
 
-/// flag__Faroe_Islands 🇫🇴 (U+1F1EB U+1F1F4)
-pub fn flag__Faroe_Islands() -> String {
+/// flag_Faroe_Islands 🇫🇴 (U+1F1EB U+1F1F4)
+pub fn flag_faroe_islands() -> String {
 	"\u{1F1EB}\u{1F1F4}".to_string()
 }
 
-/// flag__France 🇫🇷 (U+1F1EB U+1F1F7)
-pub fn flag__France() -> String {
+/// flag_France 🇫🇷 (U+1F1EB U+1F1F7)
+pub fn flag_france() -> String {
 	"\u{1F1EB}\u{1F1F7}".to_string()
 }
 
-/// flag__Gabon 🇬🇦 (U+1F1EC U+1F1E6)
-pub fn flag__Gabon() -> String {
+/// flag_Gabon 🇬🇦 (U+1F1EC U+1F1E6)
+pub fn flag_gabon() -> String {
 	"\u{1F1EC}\u{1F1E6}".to_string()
 }
 
-/// flag__United_Kingdom 🇬🇧 (U+1F1EC U+1F1E7)
-pub fn flag__United_Kingdom() -> String {
+/// flag_United_Kingdom 🇬🇧 (U+1F1EC U+1F1E7)
+pub fn flag_united_kingdom() -> String {
 	"\u{1F1EC}\u{1F1E7}".to_string()
 }
 
-/// flag__Grenada 🇬🇩 (U+1F1EC U+1F1E9)
-pub fn flag__Grenada() -> String {
+/// flag_Grenada 🇬🇩 (U+1F1EC U+1F1E9)
+pub fn flag_grenada() -> String {
 	"\u{1F1EC}\u{1F1E9}".to_string()
 }
 
-/// flag__Georgia 🇬🇪 (U+1F1EC U+1F1EA)
-pub fn flag__Georgia() -> String {
+/// flag_Georgia 🇬🇪 (U+1F1EC U+1F1EA)
+pub fn flag_georgia() -> String {
 	"\u{1F1EC}\u{1F1EA}".to_string()
 }
 
-/// flag__French_Guiana 🇬🇫 (U+1F1EC U+1F1EB)
-pub fn flag__French_Guiana() -> String {
+/// flag_French_Guiana 🇬🇫 (U+1F1EC U+1F1EB)
+pub fn flag_french_guiana() -> String {
 	"\u{1F1EC}\u{1F1EB}".to_string()
 }
 
-/// flag__Guernsey 🇬🇬 (U+1F1EC U+1F1EC)
-pub fn flag__Guernsey() -> String {
+/// flag_Guernsey 🇬🇬 (U+1F1EC U+1F1EC)
+pub fn flag_guernsey() -> String {
 	"\u{1F1EC}\u{1F1EC}".to_string()
 }
 
-/// flag__Ghana 🇬🇭 (U+1F1EC U+1F1ED)
-pub fn flag__Ghana() -> String {
+/// flag_Ghana 🇬🇭 (U+1F1EC U+1F1ED)
+pub fn flag_ghana() -> String {
 	"\u{1F1EC}\u{1F1ED}".to_string()
 }
 
-/// flag__Gibraltar 🇬🇮 (U+1F1EC U+1F1EE)
-pub fn flag__Gibraltar() -> String {
+/// flag_Gibraltar 🇬🇮 (U+1F1EC U+1F1EE)
+pub fn flag_gibraltar() -> String {
 	"\u{1F1EC}\u{1F1EE}".to_string()
 }
 
-/// flag__Greenland 🇬🇱 (U+1F1EC U+1F1F1)
-pub fn flag__Greenland() -> String {
+/// flag_Greenland 🇬🇱 (U+1F1EC U+1F1F1)
+pub fn flag_greenland() -> String {
 	"\u{1F1EC}\u{1F1F1}".to_string()
 }
 
-/// flag__Gambia 🇬🇲 (U+1F1EC U+1F1F2)
-pub fn flag__Gambia() -> String {
+/// flag_Gambia 🇬🇲 (U+1F1EC U+1F1F2)
+pub fn flag_gambia() -> String {
 	"\u{1F1EC}\u{1F1F2}".to_string()
 }
 
-/// flag__Guinea 🇬🇳 (U+1F1EC U+1F1F3)
-pub fn flag__Guinea() -> String {
+/// flag_Guinea 🇬🇳 (U+1F1EC U+1F1F3)
+pub fn flag_guinea() -> String {
 	"\u{1F1EC}\u{1F1F3}".to_string()
 }
 
-/// flag__Guadeloupe 🇬🇵 (U+1F1EC U+1F1F5)
-pub fn flag__Guadeloupe() -> String {
+/// flag_Guadeloupe 🇬🇵 (U+1F1EC U+1F1F5)
+pub fn flag_guadeloupe() -> String {
 	"\u{1F1EC}\u{1F1F5}".to_string()
 }
 
-/// flag__Equatorial_Guinea 🇬🇶 (U+1F1EC U+1F1F6)
-pub fn flag__Equatorial_Guinea() -> String {
+/// flag_Equatorial_Guinea 🇬🇶 (U+1F1EC U+1F1F6)
+pub fn flag_equatorial_guinea() -> String {
 	"\u{1F1EC}\u{1F1F6}".to_string()
 }
 
-/// flag__Greece 🇬🇷 (U+1F1EC U+1F1F7)
-pub fn flag__Greece() -> String {
+/// flag_Greece 🇬🇷 (U+1F1EC U+1F1F7)
+pub fn flag_greece() -> String {
 	"\u{1F1EC}\u{1F1F7}".to_string()
 }
 
-/// flag__South_Georgia___South_Sandwich_Islands 🇬🇸 (U+1F1EC U+1F1F8)
-pub fn flag__South_Georgia___South_Sandwich_Islands() -> String {
+/// flag_South_Georgia_South_Sandwich_Islands 🇬🇸 (U+1F1EC U+1F1F8)
+pub fn flag_south_georgia_south_sandwich_islands() -> String {
 	"\u{1F1EC}\u{1F1F8}".to_string()
 }
 
-/// flag__Guatemala 🇬🇹 (U+1F1EC U+1F1F9)
-pub fn flag__Guatemala() -> String {
+/// flag_Guatemala 🇬🇹 (U+1F1EC U+1F1F9)
+pub fn flag_guatemala() -> String {
 	"\u{1F1EC}\u{1F1F9}".to_string()
 }
 
-/// flag__Guam 🇬🇺 (U+1F1EC U+1F1FA)
-pub fn flag__Guam() -> String {
+/// flag_Guam 🇬🇺 (U+1F1EC U+1F1FA)
+pub fn flag_guam() -> String {
 	"\u{1F1EC}\u{1F1FA}".to_string()
 }
 
-/// flag__Guinea_Bissau 🇬🇼 (U+1F1EC U+1F1FC)
-pub fn flag__Guinea_Bissau() -> String {
+/// flag_Guinea_Bissau 🇬🇼 (U+1F1EC U+1F1FC)
+pub fn flag_guinea_bissau() -> String {
 	"\u{1F1EC}\u{1F1FC}".to_string()
 }
 
-/// flag__Guyana 🇬🇾 (U+1F1EC U+1F1FE)
-pub fn flag__Guyana() -> String {
+/// flag_Guyana 🇬🇾 (U+1F1EC U+1F1FE)
+pub fn flag_guyana() -> String {
 	"\u{1F1EC}\u{1F1FE}".to_string()
 }
 
-/// flag__Hong_Kong_SAR_China 🇭🇰 (U+1F1ED U+1F1F0)
-pub fn flag__Hong_Kong_SAR_China() -> String {
+/// flag_Hong_Kong_SAR_China 🇭🇰 (U+1F1ED U+1F1F0)
+pub fn flag_hong_kong_sar_china() -> String {
 	"\u{1F1ED}\u{1F1F0}".to_string()
 }
 
-/// flag__Heard___McDonald_Islands 🇭🇲 (U+1F1ED U+1F1F2)
-pub fn flag__Heard___McDonald_Islands() -> String {
+/// flag_Heard_McDonald_Islands 🇭🇲 (U+1F1ED U+1F1F2)
+pub fn flag_heard_mcdonald_islands() -> String {
 	"\u{1F1ED}\u{1F1F2}".to_string()
 }
 
-/// flag__Honduras 🇭🇳 (U+1F1ED U+1F1F3)
-pub fn flag__Honduras() -> String {
+/// flag_Honduras 🇭🇳 (U+1F1ED U+1F1F3)
+pub fn flag_honduras() -> String {
 	"\u{1F1ED}\u{1F1F3}".to_string()
 }
 
-/// flag__Croatia 🇭🇷 (U+1F1ED U+1F1F7)
-pub fn flag__Croatia() -> String {
+/// flag_Croatia 🇭🇷 (U+1F1ED U+1F1F7)
+pub fn flag_croatia() -> String {
 	"\u{1F1ED}\u{1F1F7}".to_string()
 }
 
-/// flag__Haiti 🇭🇹 (U+1F1ED U+1F1F9)
-pub fn flag__Haiti() -> String {
+/// flag_Haiti 🇭🇹 (U+1F1ED U+1F1F9)
+pub fn flag_haiti() -> String {
 	"\u{1F1ED}\u{1F1F9}".to_string()
 }
 
-/// flag__Hungary 🇭🇺 (U+1F1ED U+1F1FA)
-pub fn flag__Hungary() -> String {
+/// flag_Hungary 🇭🇺 (U+1F1ED U+1F1FA)
+pub fn flag_hungary() -> String {
 	"\u{1F1ED}\u{1F1FA}".to_string()
 }
 
-/// flag__Canary_Islands 🇮🇨 (U+1F1EE U+1F1E8)
-pub fn flag__Canary_Islands() -> String {
+/// flag_Canary_Islands 🇮🇨 (U+1F1EE U+1F1E8)
+pub fn flag_canary_islands() -> String {
 	"\u{1F1EE}\u{1F1E8}".to_string()
 }
 
-/// flag__Indonesia 🇮🇩 (U+1F1EE U+1F1E9)
-pub fn flag__Indonesia() -> String {
+/// flag_Indonesia 🇮🇩 (U+1F1EE U+1F1E9)
+pub fn flag_indonesia() -> String {
 	"\u{1F1EE}\u{1F1E9}".to_string()
 }
 
-/// flag__Ireland 🇮🇪 (U+1F1EE U+1F1EA)
-pub fn flag__Ireland() -> String {
+/// flag_Ireland 🇮🇪 (U+1F1EE U+1F1EA)
+pub fn flag_ireland() -> String {
 	"\u{1F1EE}\u{1F1EA}".to_string()
 }
 
-/// flag__Israel 🇮🇱 (U+1F1EE U+1F1F1)
-pub fn flag__Israel() -> String {
+/// flag_Israel 🇮🇱 (U+1F1EE U+1F1F1)
+pub fn flag_israel() -> String {
 	"\u{1F1EE}\u{1F1F1}".to_string()
 }
 
-/// flag__Isle_of_Man 🇮🇲 (U+1F1EE U+1F1F2)
-pub fn flag__Isle_of_Man() -> String {
+/// flag_Isle_of_Man 🇮🇲 (U+1F1EE U+1F1F2)
+pub fn flag_isle_of_man() -> String {
 	"\u{1F1EE}\u{1F1F2}".to_string()
 }
 
-/// flag__India 🇮🇳 (U+1F1EE U+1F1F3)
-pub fn flag__India() -> String {
+/// flag_India 🇮🇳 (U+1F1EE U+1F1F3)
+pub fn flag_india() -> String {
 	"\u{1F1EE}\u{1F1F3}".to_string()
 }
 
-/// flag__British_Indian_Ocean_Territory 🇮🇴 (U+1F1EE U+1F1F4)
-pub fn flag__British_Indian_Ocean_Territory() -> String {
+/// flag_British_Indian_Ocean_Territory 🇮🇴 (U+1F1EE U+1F1F4)
+pub fn flag_british_indian_ocean_territory() -> String {
 	"\u{1F1EE}\u{1F1F4}".to_string()
 }
 
-/// flag__Iraq 🇮🇶 (U+1F1EE U+1F1F6)
-pub fn flag__Iraq() -> String {
+/// flag_Iraq 🇮🇶 (U+1F1EE U+1F1F6)
+pub fn flag_iraq() -> String {
 	"\u{1F1EE}\u{1F1F6}".to_string()
 }
 
-/// flag__Iran 🇮🇷 (U+1F1EE U+1F1F7)
-pub fn flag__Iran() -> String {
+/// flag_Iran 🇮🇷 (U+1F1EE U+1F1F7)
+pub fn flag_iran() -> String {
 	"\u{1F1EE}\u{1F1F7}".to_string()
 }
 
-/// flag__Iceland 🇮🇸 (U+1F1EE U+1F1F8)
-pub fn flag__Iceland() -> String {
+/// flag_Iceland 🇮🇸 (U+1F1EE U+1F1F8)
+pub fn flag_iceland() -> String {
 	"\u{1F1EE}\u{1F1F8}".to_string()
 }
 
-/// flag__Italy 🇮🇹 (U+1F1EE U+1F1F9)
-pub fn flag__Italy() -> String {
+/// flag_Italy 🇮🇹 (U+1F1EE U+1F1F9)
+pub fn flag_italy() -> String {
 	"\u{1F1EE}\u{1F1F9}".to_string()
 }
 
-/// flag__Jersey 🇯🇪 (U+1F1EF U+1F1EA)
-pub fn flag__Jersey() -> String {
+/// flag_Jersey 🇯🇪 (U+1F1EF U+1F1EA)
+pub fn flag_jersey() -> String {
 	"\u{1F1EF}\u{1F1EA}".to_string()
 }
 
-/// flag__Jamaica 🇯🇲 (U+1F1EF U+1F1F2)
-pub fn flag__Jamaica() -> String {
+/// flag_Jamaica 🇯🇲 (U+1F1EF U+1F1F2)
+pub fn flag_jamaica() -> String {
 	"\u{1F1EF}\u{1F1F2}".to_string()
 }
 
-/// flag__Jordan 🇯🇴 (U+1F1EF U+1F1F4)
-pub fn flag__Jordan() -> String {
+/// flag_Jordan 🇯🇴 (U+1F1EF U+1F1F4)
+pub fn flag_jordan() -> String {
 	"\u{1F1EF}\u{1F1F4}".to_string()
 }
 
-/// flag__Japan 🇯🇵 (U+1F1EF U+1F1F5)
-pub fn flag__Japan() -> String {
+/// flag_Japan 🇯🇵 (U+1F1EF U+1F1F5)
+pub fn flag_japan() -> String {
 	"\u{1F1EF}\u{1F1F5}".to_string()
 }
 
-/// flag__Kenya 🇰🇪 (U+1F1F0 U+1F1EA)
-pub fn flag__Kenya() -> String {
+/// flag_Kenya 🇰🇪 (U+1F1F0 U+1F1EA)
+pub fn flag_kenya() -> String {
 	"\u{1F1F0}\u{1F1EA}".to_string()
 }
 
-/// flag__Kyrgyzstan 🇰🇬 (U+1F1F0 U+1F1EC)
-pub fn flag__Kyrgyzstan() -> String {
+/// flag_Kyrgyzstan 🇰🇬 (U+1F1F0 U+1F1EC)
+pub fn flag_kyrgyzstan() -> String {
 	"\u{1F1F0}\u{1F1EC}".to_string()
 }
 
-/// flag__Cambodia 🇰🇭 (U+1F1F0 U+1F1ED)
-pub fn flag__Cambodia() -> String {
+/// flag_Cambodia 🇰🇭 (U+1F1F0 U+1F1ED)
+pub fn flag_cambodia() -> String {
 	"\u{1F1F0}\u{1F1ED}".to_string()
 }
 
-/// flag__Kiribati 🇰🇮 (U+1F1F0 U+1F1EE)
-pub fn flag__Kiribati() -> String {
+/// flag_Kiribati 🇰🇮 (U+1F1F0 U+1F1EE)
+pub fn flag_kiribati() -> String {
 	"\u{1F1F0}\u{1F1EE}".to_string()
 }
 
-/// flag__Comoros 🇰🇲 (U+1F1F0 U+1F1F2)
-pub fn flag__Comoros() -> String {
+/// flag_Comoros 🇰🇲 (U+1F1F0 U+1F1F2)
+pub fn flag_comoros() -> String {
 	"\u{1F1F0}\u{1F1F2}".to_string()
 }
 
-/// flag__St__Kitts___Nevis 🇰🇳 (U+1F1F0 U+1F1F3)
-pub fn flag__St__Kitts___Nevis() -> String {
+/// flag_St_Kitts_Nevis 🇰🇳 (U+1F1F0 U+1F1F3)
+pub fn flag_st_kitts_nevis() -> String {
 	"\u{1F1F0}\u{1F1F3}".to_string()
 }
 
-/// flag__North_Korea 🇰🇵 (U+1F1F0 U+1F1F5)
-pub fn flag__North_Korea() -> String {
+/// flag_North_Korea 🇰🇵 (U+1F1F0 U+1F1F5)
+pub fn flag_north_korea() -> String {
 	"\u{1F1F0}\u{1F1F5}".to_string()
 }
 
-/// flag__South_Korea 🇰🇷 (U+1F1F0 U+1F1F7)
-pub fn flag__South_Korea() -> String {
+/// flag_South_Korea 🇰🇷 (U+1F1F0 U+1F1F7)
+pub fn flag_south_korea() -> String {
 	"\u{1F1F0}\u{1F1F7}".to_string()
 }
 
-/// flag__Kuwait 🇰🇼 (U+1F1F0 U+1F1FC)
-pub fn flag__Kuwait() -> String {
+/// flag_Kuwait 🇰🇼 (U+1F1F0 U+1F1FC)
+pub fn flag_kuwait() -> String {
 	"\u{1F1F0}\u{1F1FC}".to_string()
 }
 
-/// flag__Cayman_Islands 🇰🇾 (U+1F1F0 U+1F1FE)
-pub fn flag__Cayman_Islands() -> String {
+/// flag_Cayman_Islands 🇰🇾 (U+1F1F0 U+1F1FE)
+pub fn flag_cayman_islands() -> String {
 	"\u{1F1F0}\u{1F1FE}".to_string()
 }
 
-/// flag__Kazakhstan 🇰🇿 (U+1F1F0 U+1F1FF)
-pub fn flag__Kazakhstan() -> String {
+/// flag_Kazakhstan 🇰🇿 (U+1F1F0 U+1F1FF)
+pub fn flag_kazakhstan() -> String {
 	"\u{1F1F0}\u{1F1FF}".to_string()
 }
 
-/// flag__Laos 🇱🇦 (U+1F1F1 U+1F1E6)
-pub fn flag__Laos() -> String {
+/// flag_Laos 🇱🇦 (U+1F1F1 U+1F1E6)
+pub fn flag_laos() -> String {
 	"\u{1F1F1}\u{1F1E6}".to_string()
 }
 
-/// flag__Lebanon 🇱🇧 (U+1F1F1 U+1F1E7)
-pub fn flag__Lebanon() -> String {
+/// flag_Lebanon 🇱🇧 (U+1F1F1 U+1F1E7)
+pub fn flag_lebanon() -> String {
 	"\u{1F1F1}\u{1F1E7}".to_string()
 }
 
-/// flag__St__Lucia 🇱🇨 (U+1F1F1 U+1F1E8)
-pub fn flag__St__Lucia() -> String {
+/// flag_St_Lucia 🇱🇨 (U+1F1F1 U+1F1E8)
+pub fn flag_st_lucia() -> String {
 	"\u{1F1F1}\u{1F1E8}".to_string()
 }
 
-/// flag__Liechtenstein 🇱🇮 (U+1F1F1 U+1F1EE)
-pub fn flag__Liechtenstein() -> String {
+/// flag_Liechtenstein 🇱🇮 (U+1F1F1 U+1F1EE)
+pub fn flag_liechtenstein() -> String {
 	"\u{1F1F1}\u{1F1EE}".to_string()
 }
 
-/// flag__Sri_Lanka 🇱🇰 (U+1F1F1 U+1F1F0)
-pub fn flag__Sri_Lanka() -> String {
+/// flag_Sri_Lanka 🇱🇰 (U+1F1F1 U+1F1F0)
+pub fn flag_sri_lanka() -> String {
 	"\u{1F1F1}\u{1F1F0}".to_string()
 }
 
-/// flag__Liberia 🇱🇷 (U+1F1F1 U+1F1F7)
-pub fn flag__Liberia() -> String {
+/// flag_Liberia 🇱🇷 (U+1F1F1 U+1F1F7)
+pub fn flag_liberia() -> String {
 	"\u{1F1F1}\u{1F1F7}".to_string()
 }
 
-/// flag__Lesotho 🇱🇸 (U+1F1F1 U+1F1F8)
-pub fn flag__Lesotho() -> String {
+/// flag_Lesotho 🇱🇸 (U+1F1F1 U+1F1F8)
+pub fn flag_lesotho() -> String {
 	"\u{1F1F1}\u{1F1F8}".to_string()
 }
 
-/// flag__Lithuania 🇱🇹 (U+1F1F1 U+1F1F9)
-pub fn flag__Lithuania() -> String {
+/// flag_Lithuania 🇱🇹 (U+1F1F1 U+1F1F9)
+pub fn flag_lithuania() -> String {
 	"\u{1F1F1}\u{1F1F9}".to_string()
 }
 
-/// flag__Luxembourg 🇱🇺 (U+1F1F1 U+1F1FA)
-pub fn flag__Luxembourg() -> String {
+/// flag_Luxembourg 🇱🇺 (U+1F1F1 U+1F1FA)
+pub fn flag_luxembourg() -> String {
 	"\u{1F1F1}\u{1F1FA}".to_string()
 }
 
-/// flag__Latvia 🇱🇻 (U+1F1F1 U+1F1FB)
-pub fn flag__Latvia() -> String {
+/// flag_Latvia 🇱🇻 (U+1F1F1 U+1F1FB)
+pub fn flag_latvia() -> String {
 	"\u{1F1F1}\u{1F1FB}".to_string()
 }
 
-/// flag__Libya 🇱🇾 (U+1F1F1 U+1F1FE)
-pub fn flag__Libya() -> String {
+/// flag_Libya 🇱🇾 (U+1F1F1 U+1F1FE)
+pub fn flag_libya() -> String {
 	"\u{1F1F1}\u{1F1FE}".to_string()
 }
 
-/// flag__Morocco 🇲🇦 (U+1F1F2 U+1F1E6)
-pub fn flag__Morocco() -> String {
+/// flag_Morocco 🇲🇦 (U+1F1F2 U+1F1E6)
+pub fn flag_morocco() -> String {
 	"\u{1F1F2}\u{1F1E6}".to_string()
 }
 
-/// flag__Monaco 🇲🇨 (U+1F1F2 U+1F1E8)
-pub fn flag__Monaco() -> String {
+/// flag_Monaco 🇲🇨 (U+1F1F2 U+1F1E8)
+pub fn flag_monaco() -> String {
 	"\u{1F1F2}\u{1F1E8}".to_string()
 }
 
-/// flag__Moldova 🇲🇩 (U+1F1F2 U+1F1E9)
-pub fn flag__Moldova() -> String {
+/// flag_Moldova 🇲🇩 (U+1F1F2 U+1F1E9)
+pub fn flag_moldova() -> String {
 	"\u{1F1F2}\u{1F1E9}".to_string()
 }
 
-/// flag__Montenegro 🇲🇪 (U+1F1F2 U+1F1EA)
-pub fn flag__Montenegro() -> String {
+/// flag_Montenegro 🇲🇪 (U+1F1F2 U+1F1EA)
+pub fn flag_montenegro() -> String {
 	"\u{1F1F2}\u{1F1EA}".to_string()
 }
 
-/// flag__St__Martin 🇲🇫 (U+1F1F2 U+1F1EB)
-pub fn flag__St__Martin() -> String {
+/// flag_St_Martin 🇲🇫 (U+1F1F2 U+1F1EB)
+pub fn flag_st_martin() -> String {
 	"\u{1F1F2}\u{1F1EB}".to_string()
 }
 
-/// flag__Madagascar 🇲🇬 (U+1F1F2 U+1F1EC)
-pub fn flag__Madagascar() -> String {
+/// flag_Madagascar 🇲🇬 (U+1F1F2 U+1F1EC)
+pub fn flag_madagascar() -> String {
 	"\u{1F1F2}\u{1F1EC}".to_string()
 }
 
-/// flag__Marshall_Islands 🇲🇭 (U+1F1F2 U+1F1ED)
-pub fn flag__Marshall_Islands() -> String {
+/// flag_Marshall_Islands 🇲🇭 (U+1F1F2 U+1F1ED)
+pub fn flag_marshall_islands() -> String {
 	"\u{1F1F2}\u{1F1ED}".to_string()
 }
 
-/// flag__North_Macedonia 🇲🇰 (U+1F1F2 U+1F1F0)
-pub fn flag__North_Macedonia() -> String {
+/// flag_North_Macedonia 🇲🇰 (U+1F1F2 U+1F1F0)
+pub fn flag_north_macedonia() -> String {
 	"\u{1F1F2}\u{1F1F0}".to_string()
 }
 
-/// flag__Mali 🇲🇱 (U+1F1F2 U+1F1F1)
-pub fn flag__Mali() -> String {
+/// flag_Mali 🇲🇱 (U+1F1F2 U+1F1F1)
+pub fn flag_mali() -> String {
 	"\u{1F1F2}\u{1F1F1}".to_string()
 }
 
-/// flag__Myanmar__Burma_ 🇲🇲 (U+1F1F2 U+1F1F2)
-pub fn flag__Myanmar__Burma_() -> String {
+/// flag_Myanmar_Burma_ 🇲🇲 (U+1F1F2 U+1F1F2)
+pub fn flag_myanmar_burma_() -> String {
 	"\u{1F1F2}\u{1F1F2}".to_string()
 }
 
-/// flag__Mongolia 🇲🇳 (U+1F1F2 U+1F1F3)
-pub fn flag__Mongolia() -> String {
+/// flag_Mongolia 🇲🇳 (U+1F1F2 U+1F1F3)
+pub fn flag_mongolia() -> String {
 	"\u{1F1F2}\u{1F1F3}".to_string()
 }
 
-/// flag__Macao_SAR_China 🇲🇴 (U+1F1F2 U+1F1F4)
-pub fn flag__Macao_SAR_China() -> String {
+/// flag_Macao_SAR_China 🇲🇴 (U+1F1F2 U+1F1F4)
+pub fn flag_macao_sar_china() -> String {
 	"\u{1F1F2}\u{1F1F4}".to_string()
 }
 
-/// flag__Northern_Mariana_Islands 🇲🇵 (U+1F1F2 U+1F1F5)
-pub fn flag__Northern_Mariana_Islands() -> String {
+/// flag_Northern_Mariana_Islands 🇲🇵 (U+1F1F2 U+1F1F5)
+pub fn flag_northern_mariana_islands() -> String {
 	"\u{1F1F2}\u{1F1F5}".to_string()
 }
 
-/// flag__Martinique 🇲🇶 (U+1F1F2 U+1F1F6)
-pub fn flag__Martinique() -> String {
+/// flag_Martinique 🇲🇶 (U+1F1F2 U+1F1F6)
+pub fn flag_martinique() -> String {
 	"\u{1F1F2}\u{1F1F6}".to_string()
 }
 
-/// flag__Mauritania 🇲🇷 (U+1F1F2 U+1F1F7)
-pub fn flag__Mauritania() -> String {
+/// flag_Mauritania 🇲🇷 (U+1F1F2 U+1F1F7)
+pub fn flag_mauritania() -> String {
 	"\u{1F1F2}\u{1F1F7}".to_string()
 }
 
-/// flag__Montserrat 🇲🇸 (U+1F1F2 U+1F1F8)
-pub fn flag__Montserrat() -> String {
+/// flag_Montserrat 🇲🇸 (U+1F1F2 U+1F1F8)
+pub fn flag_montserrat() -> String {
 	"\u{1F1F2}\u{1F1F8}".to_string()
 }
 
-/// flag__Malta 🇲🇹 (U+1F1F2 U+1F1F9)
-pub fn flag__Malta() -> String {
+/// flag_Malta 🇲🇹 (U+1F1F2 U+1F1F9)
+pub fn flag_malta() -> String {
 	"\u{1F1F2}\u{1F1F9}".to_string()
 }
 
-/// flag__Mauritius 🇲🇺 (U+1F1F2 U+1F1FA)
-pub fn flag__Mauritius() -> String {
+/// flag_Mauritius 🇲🇺 (U+1F1F2 U+1F1FA)
+pub fn flag_mauritius() -> String {
 	"\u{1F1F2}\u{1F1FA}".to_string()
 }
 
-/// flag__Maldives 🇲🇻 (U+1F1F2 U+1F1FB)
-pub fn flag__Maldives() -> String {
+/// flag_Maldives 🇲🇻 (U+1F1F2 U+1F1FB)
+pub fn flag_maldives() -> String {
 	"\u{1F1F2}\u{1F1FB}".to_string()
 }
 
-/// flag__Malawi 🇲🇼 (U+1F1F2 U+1F1FC)
-pub fn flag__Malawi() -> String {
+/// flag_Malawi 🇲🇼 (U+1F1F2 U+1F1FC)
+pub fn flag_malawi() -> String {
 	"\u{1F1F2}\u{1F1FC}".to_string()
 }
 
-/// flag__Mexico 🇲🇽 (U+1F1F2 U+1F1FD)
-pub fn flag__Mexico() -> String {
+/// flag_Mexico 🇲🇽 (U+1F1F2 U+1F1FD)
+pub fn flag_mexico() -> String {
 	"\u{1F1F2}\u{1F1FD}".to_string()
 }
 
-/// flag__Malaysia 🇲🇾 (U+1F1F2 U+1F1FE)
-pub fn flag__Malaysia() -> String {
+/// flag_Malaysia 🇲🇾 (U+1F1F2 U+1F1FE)
+pub fn flag_malaysia() -> String {
 	"\u{1F1F2}\u{1F1FE}".to_string()
 }
 
-/// flag__Mozambique 🇲🇿 (U+1F1F2 U+1F1FF)
-pub fn flag__Mozambique() -> String {
+/// flag_Mozambique 🇲🇿 (U+1F1F2 U+1F1FF)
+pub fn flag_mozambique() -> String {
 	"\u{1F1F2}\u{1F1FF}".to_string()
 }
 
-/// flag__Namibia 🇳🇦 (U+1F1F3 U+1F1E6)
-pub fn flag__Namibia() -> String {
+/// flag_Namibia 🇳🇦 (U+1F1F3 U+1F1E6)
+pub fn flag_namibia() -> String {
 	"\u{1F1F3}\u{1F1E6}".to_string()
 }
 
-/// flag__New_Caledonia 🇳🇨 (U+1F1F3 U+1F1E8)
-pub fn flag__New_Caledonia() -> String {
+/// flag_New_Caledonia 🇳🇨 (U+1F1F3 U+1F1E8)
+pub fn flag_new_caledonia() -> String {
 	"\u{1F1F3}\u{1F1E8}".to_string()
 }
 
-/// flag__Niger 🇳🇪 (U+1F1F3 U+1F1EA)
-pub fn flag__Niger() -> String {
+/// flag_Niger 🇳🇪 (U+1F1F3 U+1F1EA)
+pub fn flag_niger() -> String {
 	"\u{1F1F3}\u{1F1EA}".to_string()
 }
 
-/// flag__Norfolk_Island 🇳🇫 (U+1F1F3 U+1F1EB)
-pub fn flag__Norfolk_Island() -> String {
+/// flag_Norfolk_Island 🇳🇫 (U+1F1F3 U+1F1EB)
+pub fn flag_norfolk_island() -> String {
 	"\u{1F1F3}\u{1F1EB}".to_string()
 }
 
-/// flag__Nigeria 🇳🇬 (U+1F1F3 U+1F1EC)
-pub fn flag__Nigeria() -> String {
+/// flag_Nigeria 🇳🇬 (U+1F1F3 U+1F1EC)
+pub fn flag_nigeria() -> String {
 	"\u{1F1F3}\u{1F1EC}".to_string()
 }
 
-/// flag__Nicaragua 🇳🇮 (U+1F1F3 U+1F1EE)
-pub fn flag__Nicaragua() -> String {
+/// flag_Nicaragua 🇳🇮 (U+1F1F3 U+1F1EE)
+pub fn flag_nicaragua() -> String {
 	"\u{1F1F3}\u{1F1EE}".to_string()
 }
 
-/// flag__Netherlands 🇳🇱 (U+1F1F3 U+1F1F1)
-pub fn flag__Netherlands() -> String {
+/// flag_Netherlands 🇳🇱 (U+1F1F3 U+1F1F1)
+pub fn flag_netherlands() -> String {
 	"\u{1F1F3}\u{1F1F1}".to_string()
 }
 
-/// flag__Norway 🇳🇴 (U+1F1F3 U+1F1F4)
-pub fn flag__Norway() -> String {
+/// flag_Norway 🇳🇴 (U+1F1F3 U+1F1F4)
+pub fn flag_norway() -> String {
 	"\u{1F1F3}\u{1F1F4}".to_string()
 }
 
-/// flag__Nepal 🇳🇵 (U+1F1F3 U+1F1F5)
-pub fn flag__Nepal() -> String {
+/// flag_Nepal 🇳🇵 (U+1F1F3 U+1F1F5)
+pub fn flag_nepal() -> String {
 	"\u{1F1F3}\u{1F1F5}".to_string()
 }
 
-/// flag__Nauru 🇳🇷 (U+1F1F3 U+1F1F7)
-pub fn flag__Nauru() -> String {
+/// flag_Nauru 🇳🇷 (U+1F1F3 U+1F1F7)
+pub fn flag_nauru() -> String {
 	"\u{1F1F3}\u{1F1F7}".to_string()
 }
 
-/// flag__Niue 🇳🇺 (U+1F1F3 U+1F1FA)
-pub fn flag__Niue() -> String {
+/// flag_Niue 🇳🇺 (U+1F1F3 U+1F1FA)
+pub fn flag_niue() -> String {
 	"\u{1F1F3}\u{1F1FA}".to_string()
 }
 
-/// flag__New_Zealand 🇳🇿 (U+1F1F3 U+1F1FF)
-pub fn flag__New_Zealand() -> String {
+/// flag_New_Zealand 🇳🇿 (U+1F1F3 U+1F1FF)
+pub fn flag_new_zealand() -> String {
 	"\u{1F1F3}\u{1F1FF}".to_string()
 }
 
-/// flag__Oman 🇴🇲 (U+1F1F4 U+1F1F2)
-pub fn flag__Oman() -> String {
+/// flag_Oman 🇴🇲 (U+1F1F4 U+1F1F2)
+pub fn flag_oman() -> String {
 	"\u{1F1F4}\u{1F1F2}".to_string()
 }
 
-/// flag__French_Polynesia 🇵🇦 (U+1F1F5 U+1F1E6)
-pub fn flag__French_Polynesia() -> String {
+/// flag_French_Polynesia 🇵🇦 (U+1F1F5 U+1F1E6)
+pub fn flag_french_polynesia() -> String {
 	"\u{1F1F5}\u{1F1E6}".to_string()
 }
 
-/// flag__Papua_New_Guinea 🇵🇬 (U+1F1F5 U+1F1EC)
-pub fn flag__Papua_New_Guinea() -> String {
+/// flag_Papua_New_Guinea 🇵🇬 (U+1F1F5 U+1F1EC)
+pub fn flag_papua_new_guinea() -> String {
 	"\u{1F1F5}\u{1F1EC}".to_string()
 }
 
-/// flag__Philippines 🇵🇭 (U+1F1F5 U+1F1ED)
-pub fn flag__Philippines() -> String {
+/// flag_Philippines 🇵🇭 (U+1F1F5 U+1F1ED)
+pub fn flag_philippines() -> String {
 	"\u{1F1F5}\u{1F1ED}".to_string()
 }
 
-/// flag__Pakistan 🇵🇰 (U+1F1F5 U+1F1F0)
-pub fn flag__Pakistan() -> String {
+/// flag_Pakistan 🇵🇰 (U+1F1F5 U+1F1F0)
+pub fn flag_pakistan() -> String {
 	"\u{1F1F5}\u{1F1F0}".to_string()
 }
 
-/// flag__Poland 🇵🇱 (U+1F1F5 U+1F1F1)
-pub fn flag__Poland() -> String {
+/// flag_Poland 🇵🇱 (U+1F1F5 U+1F1F1)
+pub fn flag_poland() -> String {
 	"\u{1F1F5}\u{1F1F1}".to_string()
 }
 
-/// flag__St__Pierre___Miquelon 🇵🇲 (U+1F1F5 U+1F1F2)
-pub fn flag__St__Pierre___Miquelon() -> String {
+/// flag_St_Pierre_Miquelon 🇵🇲 (U+1F1F5 U+1F1F2)
+pub fn flag_st_pierre_miquelon() -> String {
 	"\u{1F1F5}\u{1F1F2}".to_string()
 }
 
-/// flag__Pitcairn_Islands 🇵🇳 (U+1F1F5 U+1F1F3)
-pub fn flag__Pitcairn_Islands() -> String {
+/// flag_Pitcairn_Islands 🇵🇳 (U+1F1F5 U+1F1F3)
+pub fn flag_pitcairn_islands() -> String {
 	"\u{1F1F5}\u{1F1F3}".to_string()
 }
 
-/// flag__Puerto_Rico 🇵🇷 (U+1F1F5 U+1F1F7)
-pub fn flag__Puerto_Rico() -> String {
+/// flag_Puerto_Rico 🇵🇷 (U+1F1F5 U+1F1F7)
+pub fn flag_puerto_rico() -> String {
 	"\u{1F1F5}\u{1F1F7}".to_string()
 }
 
-/// flag__Palestinian_Territories 🇵🇸 (U+1F1F5 U+1F1F8)
-pub fn flag__Palestinian_Territories() -> String {
+/// flag_Palestinian_Territories 🇵🇸 (U+1F1F5 U+1F1F8)
+pub fn flag_palestinian_territories() -> String {
 	"\u{1F1F5}\u{1F1F8}".to_string()
 }
 
-/// flag__Portugal 🇵🇹 (U+1F1F5 U+1F1F9)
-pub fn flag__Portugal() -> String {
+/// flag_Portugal 🇵🇹 (U+1F1F5 U+1F1F9)
+pub fn flag_portugal() -> String {
 	"\u{1F1F5}\u{1F1F9}".to_string()
 }
 
-/// flag__Palau 🇵🇼 (U+1F1F5 U+1F1FC)
-pub fn flag__Palau() -> String {
+/// flag_Palau 🇵🇼 (U+1F1F5 U+1F1FC)
+pub fn flag_palau() -> String {
 	"\u{1F1F5}\u{1F1FC}".to_string()
 }
 
-/// flag__Paraguay 🇵🇾 (U+1F1F5 U+1F1FE)
-pub fn flag__Paraguay() -> String {
+/// flag_Paraguay 🇵🇾 (U+1F1F5 U+1F1FE)
+pub fn flag_paraguay() -> String {
 	"\u{1F1F5}\u{1F1FE}".to_string()
 }
 
-/// flag__Qatar 🇶🇦 (U+1F1F6 U+1F1E6)
-pub fn flag__Qatar() -> String {
+/// flag_Qatar 🇶🇦 (U+1F1F6 U+1F1E6)
+pub fn flag_qatar() -> String {
 	"\u{1F1F6}\u{1F1E6}".to_string()
 }
 
-/// flag__R_union 🇷🇪 (U+1F1F7 U+1F1EA)
-pub fn flag__R_union() -> String {
+/// flag_R_union 🇷🇪 (U+1F1F7 U+1F1EA)
+pub fn flag_r_union() -> String {
 	"\u{1F1F7}\u{1F1EA}".to_string()
 }
 
-/// flag__Romania 🇷🇴 (U+1F1F7 U+1F1F4)
-pub fn flag__Romania() -> String {
+/// flag_Romania 🇷🇴 (U+1F1F7 U+1F1F4)
+pub fn flag_romania() -> String {
 	"\u{1F1F7}\u{1F1F4}".to_string()
 }
 
-/// flag__Serbia 🇷🇸 (U+1F1F7 U+1F1F8)
-pub fn flag__Serbia() -> String {
+/// flag_Serbia 🇷🇸 (U+1F1F7 U+1F1F8)
+pub fn flag_serbia() -> String {
 	"\u{1F1F7}\u{1F1F8}".to_string()
 }
 
-/// flag__Russia 🇷🇺 (U+1F1F7 U+1F1FA)
-pub fn flag__Russia() -> String {
+/// flag_Russia 🇷🇺 (U+1F1F7 U+1F1FA)
+pub fn flag_russia() -> String {
 	"\u{1F1F7}\u{1F1FA}".to_string()
 }
 
-/// flag__Rwanda 🇷🇼 (U+1F1F7 U+1F1FC)
-pub fn flag__Rwanda() -> String {
+/// flag_Rwanda 🇷🇼 (U+1F1F7 U+1F1FC)
+pub fn flag_rwanda() -> String {
 	"\u{1F1F7}\u{1F1FC}".to_string()
 }
 
-/// flag__Saudi_Arabia 🇸🇦 (U+1F1F8 U+1F1E6)
-pub fn flag__Saudi_Arabia() -> String {
+/// flag_Saudi_Arabia 🇸🇦 (U+1F1F8 U+1F1E6)
+pub fn flag_saudi_arabia() -> String {
 	"\u{1F1F8}\u{1F1E6}".to_string()
 }
 
-/// flag__Solomon_Islands 🇸🇧 (U+1F1F8 U+1F1E7)
-pub fn flag__Solomon_Islands() -> String {
+/// flag_Solomon_Islands 🇸🇧 (U+1F1F8 U+1F1E7)
+pub fn flag_solomon_islands() -> String {
 	"\u{1F1F8}\u{1F1E7}".to_string()
 }
 
-/// flag__Seychelles 🇸🇨 (U+1F1F8 U+1F1E8)
-pub fn flag__Seychelles() -> String {
+/// flag_Seychelles 🇸🇨 (U+1F1F8 U+1F1E8)
+pub fn flag_seychelles() -> String {
 	"\u{1F1F8}\u{1F1E8}".to_string()
 }
 
-/// flag__Sudan 🇸🇩 (U+1F1F8 U+1F1E9)
-pub fn flag__Sudan() -> String {
+/// flag_Sudan 🇸🇩 (U+1F1F8 U+1F1E9)
+pub fn flag_sudan() -> String {
 	"\u{1F1F8}\u{1F1E9}".to_string()
 }
 
-/// flag__Sweden 🇸🇪 (U+1F1F8 U+1F1EA)
-pub fn flag__Sweden() -> String {
+/// flag_Sweden 🇸🇪 (U+1F1F8 U+1F1EA)
+pub fn flag_sweden() -> String {
 	"\u{1F1F8}\u{1F1EA}".to_string()
 }
 
-/// flag__Singapore 🇸🇬 (U+1F1F8 U+1F1EC)
-pub fn flag__Singapore() -> String {
+/// flag_Singapore 🇸🇬 (U+1F1F8 U+1F1EC)
+pub fn flag_singapore() -> String {
 	"\u{1F1F8}\u{1F1EC}".to_string()
 }
 
-/// flag__St__Helena 🇸🇭 (U+1F1F8 U+1F1ED)
-pub fn flag__St__Helena() -> String {
+/// flag_St_Helena 🇸🇭 (U+1F1F8 U+1F1ED)
+pub fn flag_st_helena() -> String {
 	"\u{1F1F8}\u{1F1ED}".to_string()
 }
 
-/// flag__Slovenia 🇸🇮 (U+1F1F8 U+1F1EE)
-pub fn flag__Slovenia() -> String {
+/// flag_Slovenia 🇸🇮 (U+1F1F8 U+1F1EE)
+pub fn flag_slovenia() -> String {
 	"\u{1F1F8}\u{1F1EE}".to_string()
 }
 
-/// flag__Svalbard___Jan_Mayen 🇸🇯 (U+1F1F8 U+1F1EF)
-pub fn flag__Svalbard___Jan_Mayen() -> String {
+/// flag_Svalbard_Jan_Mayen 🇸🇯 (U+1F1F8 U+1F1EF)
+pub fn flag_svalbard_jan_mayen() -> String {
 	"\u{1F1F8}\u{1F1EF}".to_string()
 }
 
-/// flag__Slovakia 🇸🇰 (U+1F1F8 U+1F1F0)
-pub fn flag__Slovakia() -> String {
+/// flag_Slovakia 🇸🇰 (U+1F1F8 U+1F1F0)
+pub fn flag_slovakia() -> String {
 	"\u{1F1F8}\u{1F1F0}".to_string()
 }
 
-/// flag__Sierra_Leone 🇸🇱 (U+1F1F8 U+1F1F1)
-pub fn flag__Sierra_Leone() -> String {
+/// flag_Sierra_Leone 🇸🇱 (U+1F1F8 U+1F1F1)
+pub fn flag_sierra_leone() -> String {
 	"\u{1F1F8}\u{1F1F1}".to_string()
 }
 
-/// flag__San_Marino 🇸🇲 (U+1F1F8 U+1F1F2)
-pub fn flag__San_Marino() -> String {
+/// flag_San_Marino 🇸🇲 (U+1F1F8 U+1F1F2)
+pub fn flag_san_marino() -> String {
 	"\u{1F1F8}\u{1F1F2}".to_string()
 }
 
-/// flag__Senegal 🇸🇳 (U+1F1F8 U+1F1F3)
-pub fn flag__Senegal() -> String {
+/// flag_Senegal 🇸🇳 (U+1F1F8 U+1F1F3)
+pub fn flag_senegal() -> String {
 	"\u{1F1F8}\u{1F1F3}".to_string()
 }
 
-/// flag__Somalia 🇸🇴 (U+1F1F8 U+1F1F4)
-pub fn flag__Somalia() -> String {
+/// flag_Somalia 🇸🇴 (U+1F1F8 U+1F1F4)
+pub fn flag_somalia() -> String {
 	"\u{1F1F8}\u{1F1F4}".to_string()
 }
 
-/// flag__Suriname 🇸🇷 (U+1F1F8 U+1F1F7)
-pub fn flag__Suriname() -> String {
+/// flag_Suriname 🇸🇷 (U+1F1F8 U+1F1F7)
+pub fn flag_suriname() -> String {
 	"\u{1F1F8}\u{1F1F7}".to_string()
 }
 
-/// flag__South_Sudan 🇸🇸 (U+1F1F8 U+1F1F8)
-pub fn flag__South_Sudan() -> String {
+/// flag_South_Sudan 🇸🇸 (U+1F1F8 U+1F1F8)
+pub fn flag_south_sudan() -> String {
 	"\u{1F1F8}\u{1F1F8}".to_string()
 }
 
-/// flag__S_o_Tom____Pr_ncipe 🇸🇹 (U+1F1F8 U+1F1F9)
-pub fn flag__S_o_Tom____Pr_ncipe() -> String {
+/// flag_S_o_Tom_Pr_ncipe 🇸🇹 (U+1F1F8 U+1F1F9)
+pub fn flag_s_o_tom_pr_ncipe() -> String {
 	"\u{1F1F8}\u{1F1F9}".to_string()
 }
 
-/// flag__El_Salvador 🇸🇻 (U+1F1F8 U+1F1FB)
-pub fn flag__El_Salvador() -> String {
+/// flag_El_Salvador 🇸🇻 (U+1F1F8 U+1F1FB)
+pub fn flag_el_salvador() -> String {
 	"\u{1F1F8}\u{1F1FB}".to_string()
 }
 
-/// flag__Sint_Maarten 🇸🇽 (U+1F1F8 U+1F1FD)
-pub fn flag__Sint_Maarten() -> String {
+/// flag_Sint_Maarten 🇸🇽 (U+1F1F8 U+1F1FD)
+pub fn flag_sint_maarten() -> String {
 	"\u{1F1F8}\u{1F1FD}".to_string()
 }
 
-/// flag__Syria 🇸🇾 (U+1F1F8 U+1F1FE)
-pub fn flag__Syria() -> String {
+/// flag_Syria 🇸🇾 (U+1F1F8 U+1F1FE)
+pub fn flag_syria() -> String {
 	"\u{1F1F8}\u{1F1FE}".to_string()
 }
 
-/// flag__Eswatini 🇸🇿 (U+1F1F8 U+1F1FF)
-pub fn flag__Eswatini() -> String {
+/// flag_Eswatini 🇸🇿 (U+1F1F8 U+1F1FF)
+pub fn flag_eswatini() -> String {
 	"\u{1F1F8}\u{1F1FF}".to_string()
 }
 
-/// flag__Tristan_da_Cunha 🇹🇦 (U+1F1F9 U+1F1E6)
-pub fn flag__Tristan_da_Cunha() -> String {
+/// flag_Tristan_da_Cunha 🇹🇦 (U+1F1F9 U+1F1E6)
+pub fn flag_tristan_da_cunha() -> String {
 	"\u{1F1F9}\u{1F1E6}".to_string()
 }
 
-/// flag__Turks___Caicos_Islands 🇹🇨 (U+1F1F9 U+1F1E8)
-pub fn flag__Turks___Caicos_Islands() -> String {
+/// flag_Turks_Caicos_Islands 🇹🇨 (U+1F1F9 U+1F1E8)
+pub fn flag_turks_caicos_islands() -> String {
 	"\u{1F1F9}\u{1F1E8}".to_string()
 }
 
-/// flag__Chad 🇹🇩 (U+1F1F9 U+1F1E9)
-pub fn flag__Chad() -> String {
+/// flag_Chad 🇹🇩 (U+1F1F9 U+1F1E9)
+pub fn flag_chad() -> String {
 	"\u{1F1F9}\u{1F1E9}".to_string()
 }
 
-/// flag__French_Southern_Territories 🇹🇫 (U+1F1F9 U+1F1EB)
-pub fn flag__French_Southern_Territories() -> String {
+/// flag_French_Southern_Territories 🇹🇫 (U+1F1F9 U+1F1EB)
+pub fn flag_french_southern_territories() -> String {
 	"\u{1F1F9}\u{1F1EB}".to_string()
 }
 
-/// flag__Togo 🇹🇬 (U+1F1F9 U+1F1EC)
-pub fn flag__Togo() -> String {
+/// flag_Togo 🇹🇬 (U+1F1F9 U+1F1EC)
+pub fn flag_togo() -> String {
 	"\u{1F1F9}\u{1F1EC}".to_string()
 }
 
-/// flag__Thailand 🇹🇭 (U+1F1F9 U+1F1ED)
-pub fn flag__Thailand() -> String {
+/// flag_Thailand 🇹🇭 (U+1F1F9 U+1F1ED)
+pub fn flag_thailand() -> String {
 	"\u{1F1F9}\u{1F1ED}".to_string()
 }
 
-/// flag__Tajikistan 🇹🇯 (U+1F1F9 U+1F1EF)
-pub fn flag__Tajikistan() -> String {
+/// flag_Tajikistan 🇹🇯 (U+1F1F9 U+1F1EF)
+pub fn flag_tajikistan() -> String {
 	"\u{1F1F9}\u{1F1EF}".to_string()
 }
 
-/// flag__Tokelau 🇹🇰 (U+1F1F9 U+1F1F0)
-pub fn flag__Tokelau() -> String {
+/// flag_Tokelau 🇹🇰 (U+1F1F9 U+1F1F0)
+pub fn flag_tokelau() -> String {
 	"\u{1F1F9}\u{1F1F0}".to_string()
 }
 
-/// flag__Timor_Leste 🇹🇱 (U+1F1F9 U+1F1F1)
-pub fn flag__Timor_Leste() -> String {
+/// flag_Timor_Leste 🇹🇱 (U+1F1F9 U+1F1F1)
+pub fn flag_timor_leste() -> String {
 	"\u{1F1F9}\u{1F1F1}".to_string()
 }
 
-/// flag__Turkmenistan 🇹🇲 (U+1F1F9 U+1F1F2)
-pub fn flag__Turkmenistan() -> String {
+/// flag_Turkmenistan 🇹🇲 (U+1F1F9 U+1F1F2)
+pub fn flag_turkmenistan() -> String {
 	"\u{1F1F9}\u{1F1F2}".to_string()
 }
 
-/// flag__Tunisia 🇹🇳 (U+1F1F9 U+1F1F3)
-pub fn flag__Tunisia() -> String {
+/// flag_Tunisia 🇹🇳 (U+1F1F9 U+1F1F3)
+pub fn flag_tunisia() -> String {
 	"\u{1F1F9}\u{1F1F3}".to_string()
 }
 
-/// flag__Tonga 🇹🇴 (U+1F1F9 U+1F1F4)
-pub fn flag__Tonga() -> String {
+/// flag_Tonga 🇹🇴 (U+1F1F9 U+1F1F4)
+pub fn flag_tonga() -> String {
 	"\u{1F1F9}\u{1F1F4}".to_string()
 }
 
-/// flag__T_rkiye 🇹🇷 (U+1F1F9 U+1F1F7)
-pub fn flag__T_rkiye() -> String {
+/// flag_T_rkiye 🇹🇷 (U+1F1F9 U+1F1F7)
+pub fn flag_t_rkiye() -> String {
 	"\u{1F1F9}\u{1F1F7}".to_string()
 }
 
-/// flag__Trinidad___Tobago 🇹🇹 (U+1F1F9 U+1F1F9)
-pub fn flag__Trinidad___Tobago() -> String {
+/// flag_Trinidad_Tobago 🇹🇹 (U+1F1F9 U+1F1F9)
+pub fn flag_trinidad_tobago() -> String {
 	"\u{1F1F9}\u{1F1F9}".to_string()
 }
 
-/// flag__Tuvalu 🇹🇻 (U+1F1F9 U+1F1FB)
-pub fn flag__Tuvalu() -> String {
+/// flag_Tuvalu 🇹🇻 (U+1F1F9 U+1F1FB)
+pub fn flag_tuvalu() -> String {
 	"\u{1F1F9}\u{1F1FB}".to_string()
 }
 
-/// flag__Taiwan 🇹🇼 (U+1F1F9 U+1F1FC)
-pub fn flag__Taiwan() -> String {
+/// flag_Taiwan 🇹🇼 (U+1F1F9 U+1F1FC)
+pub fn flag_taiwan() -> String {
 	"\u{1F1F9}\u{1F1FC}".to_string()
 }
 
-/// flag__Tanzania 🇹🇿 (U+1F1F9 U+1F1FF)
-pub fn flag__Tanzania() -> String {
+/// flag_Tanzania 🇹🇿 (U+1F1F9 U+1F1FF)
+pub fn flag_tanzania() -> String {
 	"\u{1F1F9}\u{1F1FF}".to_string()
 }
 
-/// flag__Ukraine 🇺🇦 (U+1F1FA U+1F1E6)
-pub fn flag__Ukraine() -> String {
+/// flag_Ukraine 🇺🇦 (U+1F1FA U+1F1E6)
+pub fn flag_ukraine() -> String {
 	"\u{1F1FA}\u{1F1E6}".to_string()
 }
 
-/// flag__Uganda 🇺🇬 (U+1F1FA U+1F1EC)
-pub fn flag__Uganda() -> String {
+/// flag_Uganda 🇺🇬 (U+1F1FA U+1F1EC)
+pub fn flag_uganda() -> String {
 	"\u{1F1FA}\u{1F1EC}".to_string()
 }
 
-/// flag__U_S__Outlying_Islands 🇺🇲 (U+1F1FA U+1F1F2)
-pub fn flag__U_S__Outlying_Islands() -> String {
+/// flag_U_S_Outlying_Islands 🇺🇲 (U+1F1FA U+1F1F2)
+pub fn flag_u_s_outlying_islands() -> String {
 	"\u{1F1FA}\u{1F1F2}".to_string()
 }
 
-/// flag__United_Nations 🇺🇳 (U+1F1FA U+1F1F3)
-pub fn flag__United_Nations() -> String {
+/// flag_United_Nations 🇺🇳 (U+1F1FA U+1F1F3)
+pub fn flag_united_nations() -> String {
 	"\u{1F1FA}\u{1F1F3}".to_string()
 }
 
-/// flag__United_States 🇺🇸 (U+1F1FA U+1F1F8)
-pub fn flag__United_States() -> String {
+/// flag_United_States 🇺🇸 (U+1F1FA U+1F1F8)
+pub fn flag_united_states() -> String {
 	"\u{1F1FA}\u{1F1F8}".to_string()
 }
 
-/// flag__Uruguay 🇺🇾 (U+1F1FA U+1F1FE)
-pub fn flag__Uruguay() -> String {
+/// flag_Uruguay 🇺🇾 (U+1F1FA U+1F1FE)
+pub fn flag_uruguay() -> String {
 	"\u{1F1FA}\u{1F1FE}".to_string()
 }
 
-/// flag__Uzbekistan 🇺🇿 (U+1F1FA U+1F1FF)
-pub fn flag__Uzbekistan() -> String {
+/// flag_Uzbekistan 🇺🇿 (U+1F1FA U+1F1FF)
+pub fn flag_uzbekistan() -> String {
 	"\u{1F1FA}\u{1F1FF}".to_string()
 }
 
-/// flag__Vatican_City 🇻🇦 (U+1F1FB U+1F1E6)
-pub fn flag__Vatican_City() -> String {
+/// flag_Vatican_City 🇻🇦 (U+1F1FB U+1F1E6)
+pub fn flag_vatican_city() -> String {
 	"\u{1F1FB}\u{1F1E6}".to_string()
 }
 
-/// flag__St__Vincent___Grenadines 🇻🇨 (U+1F1FB U+1F1E8)
-pub fn flag__St__Vincent___Grenadines() -> String {
+/// flag_St_Vincent_Grenadines 🇻🇨 (U+1F1FB U+1F1E8)
+pub fn flag_st_vincent_grenadines() -> String {
 	"\u{1F1FB}\u{1F1E8}".to_string()
 }
 
-/// flag__Venezuela 🇻🇪 (U+1F1FB U+1F1EA)
-pub fn flag__Venezuela() -> String {
+/// flag_Venezuela 🇻🇪 (U+1F1FB U+1F1EA)
+pub fn flag_venezuela() -> String {
 	"\u{1F1FB}\u{1F1EA}".to_string()
 }
 
-/// flag__British_Virgin_Islands 🇻🇬 (U+1F1FB U+1F1EC)
-pub fn flag__British_Virgin_Islands() -> String {
+/// flag_British_Virgin_Islands 🇻🇬 (U+1F1FB U+1F1EC)
+pub fn flag_british_virgin_islands() -> String {
 	"\u{1F1FB}\u{1F1EC}".to_string()
 }
 
-/// flag__U_S__Virgin_Islands 🇻🇮 (U+1F1FB U+1F1EE)
-pub fn flag__U_S__Virgin_Islands() -> String {
+/// flag_U_S_Virgin_Islands 🇻🇮 (U+1F1FB U+1F1EE)
+pub fn flag_u_s_virgin_islands() -> String {
 	"\u{1F1FB}\u{1F1EE}".to_string()
 }
 
-/// flag__Vietnam 🇻🇳 (U+1F1FB U+1F1F3)
-pub fn flag__Vietnam() -> String {
+/// flag_Vietnam 🇻🇳 (U+1F1FB U+1F1F3)
+pub fn flag_vietnam() -> String {
 	"\u{1F1FB}\u{1F1F3}".to_string()
 }
 
-/// flag__Vanuatu 🇻🇺 (U+1F1FB U+1F1FA)
-pub fn flag__Vanuatu() -> String {
+/// flag_Vanuatu 🇻🇺 (U+1F1FB U+1F1FA)
+pub fn flag_vanuatu() -> String {
 	"\u{1F1FB}\u{1F1FA}".to_string()
 }
 
-/// flag__Wallis___Futuna 🇼🇫 (U+1F1FC U+1F1EB)
-pub fn flag__Wallis___Futuna() -> String {
+/// flag_Wallis_Futuna 🇼🇫 (U+1F1FC U+1F1EB)
+pub fn flag_wallis_futuna() -> String {
 	"\u{1F1FC}\u{1F1EB}".to_string()
 }
 
-/// flag__Samoa 🇼🇸 (U+1F1FC U+1F1F8)
-pub fn flag__Samoa() -> String {
+/// flag_Samoa 🇼🇸 (U+1F1FC U+1F1F8)
+pub fn flag_samoa() -> String {
 	"\u{1F1FC}\u{1F1F8}".to_string()
 }
 
-/// flag__Kosovo 🇽🇰 (U+1F1FD U+1F1F0)
-pub fn flag__Kosovo() -> String {
+/// flag_Kosovo 🇽🇰 (U+1F1FD U+1F1F0)
+pub fn flag_kosovo() -> String {
 	"\u{1F1FD}\u{1F1F0}".to_string()
 }
 
-/// flag__Yemen 🇾🇪 (U+1F1FE U+1F1EA)
-pub fn flag__Yemen() -> String {
+/// flag_Yemen 🇾🇪 (U+1F1FE U+1F1EA)
+pub fn flag_yemen() -> String {
 	"\u{1F1FE}\u{1F1EA}".to_string()
 }
 
-/// flag__Mayotte 🇾🇹 (U+1F1FE U+1F1F9)
-pub fn flag__Mayotte() -> String {
+/// flag_Mayotte 🇾🇹 (U+1F1FE U+1F1F9)
+pub fn flag_mayotte() -> String {
 	"\u{1F1FE}\u{1F1F9}".to_string()
 }
 
-/// flag__South_Africa 🇿🇦 (U+1F1FF U+1F1E6)
-pub fn flag__South_Africa() -> String {
+/// flag_South_Africa 🇿🇦 (U+1F1FF U+1F1E6)
+pub fn flag_south_africa() -> String {
 	"\u{1F1FF}\u{1F1E6}".to_string()
 }
 
-/// flag__Zambia 🇿🇲 (U+1F1FF U+1F1F2)
-pub fn flag__Zambia() -> String {
+/// flag_Zambia 🇿🇲 (U+1F1FF U+1F1F2)
+pub fn flag_zambia() -> String {
 	"\u{1F1FF}\u{1F1F2}".to_string()
 }
 
-/// flag__Zimbabwe 🇿🇼 (U+1F1FF U+1F1FC)
-pub fn flag__Zimbabwe() -> String {
+/// flag_Zimbabwe 🇿🇼 (U+1F1FF U+1F1FC)
+pub fn flag_zimbabwe() -> String {
 	"\u{1F1FF}\u{1F1FC}".to_string()
 }
 
-/// flag__England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (U+1F3F4 U+E0067 U+E0062 U+E0065 U+E006E U+E0067 U+E007F)
-pub fn flag__England() -> String {
+/// flag_England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (U+1F3F4 U+E0067 U+E0062 U+E0065 U+E006E U+E0067 U+E007F)
+pub fn flag_england() -> String {
 	"\u{1F3F4}\u{E0067}\u{E0062}\u{E0065}\u{E006E}\u{E0067}\u{E007F}".to_string()
 }
 
-/// flag__Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 (U+1F3F4 U+E0067 U+E0062 U+E0073 U+E0063 U+E0074 U+E007F)
-pub fn flag__Scotland() -> String {
+/// flag_Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 (U+1F3F4 U+E0067 U+E0062 U+E0073 U+E0063 U+E0074 U+E007F)
+pub fn flag_scotland() -> String {
 	"\u{1F3F4}\u{E0067}\u{E0062}\u{E0073}\u{E0063}\u{E0074}\u{E007F}".to_string()
 }
 
-/// flag__Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (U+1F3F4 U+E0067 U+E0062 U+E0077 U+E006C U+E0073 U+E007F)
-pub fn flag__Wales() -> String {
+/// flag_Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (U+1F3F4 U+E0067 U+E0062 U+E0077 U+E006C U+E0073 U+E007F)
+pub fn flag_wales() -> String {
 	"\u{1F3F4}\u{E0067}\u{E0062}\u{E0077}\u{E006C}\u{E0073}\u{E007F}".to_string()
 }
 

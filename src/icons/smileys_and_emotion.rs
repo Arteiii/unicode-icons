@@ -834,7 +834,7 @@ pub fn thought_balloon() -> String {
 }
 
 /// ZZZ 💤 (U+1F4A4)
-pub fn ZZZ() -> String {
+pub fn zzz() -> String {
 	"\u{1F4A4}".to_string()
 }
 
