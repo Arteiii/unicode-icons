@@ -31,7 +31,11 @@ jobs:
           sed -i'' -e "s/^version = \".*\"/version = \"$VERSION\"/" Cargo.toml
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -am "Bump version to $VERSION"
+          if ! git diff --quiet; then
+            git commit -am "Bump version to $VERSION"
+          else
+            echo "No changes to commit"
+          fi
 
       - name: Push changes
         uses: ad-m/github-push-action@master
