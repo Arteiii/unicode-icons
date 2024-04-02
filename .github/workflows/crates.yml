@@ -9,6 +9,8 @@ jobs:
   update_and_publish:
     name: Update Cargo.toml Version and Publish to Crates
     runs-on: ubuntu-latest
+    environment: crates
+
 
     steps:
       - name: Checkout repository
@@ -31,28 +33,10 @@ jobs:
           git config --local user.name "GitHub Action"
           if ! git diff --quiet; then
             git commit -am "Bump version to $VERSION"
+            git push
           else
             echo "No changes to commit"
           fi
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-
-  publish_to_crates:
-    name: Publish to Cargo Crates
-    runs-on: ubuntu-latest
-    needs: update_and_publish
-    environment: crates
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Set up Rust
-        uses: moonrepo/setup-rust@v1
-
 
       - name: Login to Cargo and Publish
         run: cargo publish --token ${CRATES_TOKEN}
