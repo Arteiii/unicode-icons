@@ -33,10 +33,14 @@ jobs:
           git config --local user.name "GitHub Action"
           if ! git diff --quiet; then
             git commit -am "Bump version to $VERSION"
-            git push
           else
             echo "No changes to commit"
           fi
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Login to Cargo and Publish
         run: cargo publish --token ${CRATES_TOKEN}
