@@ -27,6 +27,10 @@ jobs:
 
       - name: Lint Code
         run: cargo clippy --all -- -D warnings
+        
+      - name: Check for changes
+        run: |
+          git diff --exit-code || exit 0
 
       - name: Commit changes
         run: |
