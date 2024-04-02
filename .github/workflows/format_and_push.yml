@@ -40,7 +40,7 @@ jobs:
           fi
 
       - name: Pull changes
-        run: git pull --no-rebase origin 1.0.0
+        run: git pull --no-rebase --allow-unrelated-histories origin ${{ github.head_ref }}
         
       - name: Push changes
         if: github.event_name == 'pull_request'
