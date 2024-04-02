@@ -1,5 +1,6 @@
-use unicode_icons::activities;
+use unicode_icons::{activities, flags};
 
 fn main() {
-    println!("{}", activities::christmas_tree());
+    println!("Christmas Tree: {}", activities::christmas_tree());
+    println!("Rainbow Flag: {}", flags::rainbow_flag());
 }

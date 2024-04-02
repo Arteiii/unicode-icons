@@ -44,7 +44,6 @@
 //!
 //! ### Copyright (c) 2024 Ben
 
-
 mod icons;
 
 pub use icons::{
@@ -52,4 +51,4 @@ pub use icons::{
     smileys_and_emotion, symbols, travel_and_places,
 };
 
-// from https://www.unicode.org/emoji/charts/full-emoji-list.html and others idk rn
+// from https://www.unicode.org/emoji/charts/full-emoji-list.html and others IDK rn
