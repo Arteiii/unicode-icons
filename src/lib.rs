@@ -17,16 +17,15 @@
 //!
 //! ## Usage
 //!
-//! ````rust
-//! // examples/main.rs
-//!
+//! ```rust
 //! use unicode_icons::{activities, flags};
 //!
-//! fn main() {
-//!     println!("Christmas Tree: {}", activities::christmas_tree());
-//!     println!("Rainbow Flag: {}", flags::rainbow_flag());
-//! }
-//! ````
+//! println!("Christmas Tree: {}", activities::christmas_tree());
+//! println!("Rainbow Flag: {}", flags::rainbow_flag());
+//!
+//! ```
+//!
+//! (examples/main.rs)
 //!
 //! ### Output
 //!
