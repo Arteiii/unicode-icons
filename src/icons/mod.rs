@@ -1,4 +1,10 @@
-pub mod checkmarks;
-pub mod copyright;
+pub mod activities;
+pub mod animals_and_nature;
+pub mod component;
 pub mod flags;
-pub mod punctuation;
+pub mod food_and_drink;
+pub mod objects;
+pub mod people_and_body;
+pub mod smileys_and_emotion;
+pub mod symbols;
+pub mod travel_and_places;
