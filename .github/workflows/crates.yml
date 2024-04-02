@@ -9,6 +9,7 @@ jobs:
   update_and_publish:
     name: Update Cargo.toml Version and Publish to Crates
     runs-on: ubuntu-latest
+    environment: crates
 
     steps:
       - name: Checkout repository
