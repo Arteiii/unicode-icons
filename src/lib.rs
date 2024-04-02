@@ -10,6 +10,10 @@
 ///
 /// **Copyright (c) 2024 Ben**
 mod icons;
-pub use icons::{checkmarks, copyright, flags, punctuation};
+
+pub use icons::{
+    activities, animals_and_nature, component, flags, food_and_drink, objects, people_and_body,
+    smileys_and_emotion, symbols, travel_and_places,
+};
 
 // from https://www.unicode.org/emoji/charts/full-emoji-list.html and others idk rn
