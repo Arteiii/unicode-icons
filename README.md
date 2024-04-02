@@ -1,18 +1,44 @@
-# unicode_icons
+# Unicode Icons (Rust)
 
-Total groups: 10
-Total functions: 1869
+Total groups: **10**  
+Total functions: **1869**  
 
-full list: <https://www.unicode.org/emoji/charts/full-emoji-list.html>  
+Groups:
+* Activities
+* Animals & Nature
+* Component
+* Flags
+* Food & Drink
+* Objects
+* People & Body
+* Smileys & Emotion
+* Symbols
+* Travel & Places
 
-all names are in lowercase and underscores example:
 
-[this emoji](https://www.unicode.org/emoji/charts/full-emoji-list.html#1f643)
-will be available at:
+full list at: [DOCS.RS](https://docs.rs/unicode-icons)
 
-```rs
-smileys_and_emotion::upside_down_face();
-```
+## Usage
+
+````rust
+// examples/main.rs
+
+use unicode_icons::{activities, flags};
+
+fn main() {
+    println!("Christmas Tree: {}", activities::christmas_tree());
+    println!("Rainbow Flag: {}", flags::rainbow_flag());
+}
+````
+
+### Output
+
+````shell
+$ cargo run --example main
+    Christmas Tree: 🎄
+    Rainbow Flag: 🏳️‍🌈
+````
+
 
 ## License
 
