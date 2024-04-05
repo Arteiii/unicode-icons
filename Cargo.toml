@@ -1,6 +1,6 @@
 [package]
 name = "unicode-icons"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 authors = ["Arteii <ben.arteii@proton.me>"]
 license-file = "LICENSE.md"
