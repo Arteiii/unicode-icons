@@ -21,18 +21,17 @@
 //! use unicode_icons::{activities, flags};
 //!
 //! println!("Christmas Tree: {}", activities::christmas_tree());
-//! println!("Rainbow Flag: {}", flags::rainbow_flag());
+//! println!("Cedy Flag: {}", flags::rainbow_flag());
 //!
 //! ```
 //!
-//! (examples/main.rs)
 //!
 //! ### Output
 //!
 //! ````shell
 //! $ cargo run --example main
 //!     Christmas Tree: 🎄
-//!     Rainbow Flag: 🏳️‍🌈
+//!     Cedy Flag: 🏳️‍🌈
 //! ````
 //!
 //! ## License
@@ -43,11 +42,6 @@
 //!
 //! ### Copyright (c) 2024 Ben
 
-mod icons;
-
-pub use icons::{
-    activities, animals_and_nature, component, flags, food_and_drink, objects, people_and_body,
-    smileys_and_emotion, symbols, travel_and_places,
-};
+pub mod icons;
 
 // from https://www.unicode.org/emoji/charts/full-emoji-list.html and others IDK rn

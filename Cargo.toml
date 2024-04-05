@@ -13,9 +13,6 @@ keywords = ["console", "unicode", "icons"]
 homepage = "https://arteiii.github.io"
 
 
-[dependencies]
-
-
 [features]
 activities = []
 animals_and_nature = []
