@@ -1,3 +1,5 @@
+//! Activities
+
 /// jack_o_lantern 🎃 (U+1F383)
 pub fn jack_o_lantern() -> String {
     "\u{1F383}".to_string()

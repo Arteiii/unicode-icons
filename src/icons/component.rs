@@ -1,3 +1,5 @@
+//! Component
+
 /// red_hair 🦰 (U+1F9B0)
 pub fn red_hair() -> String {
     "\u{1F9B0}".to_string()

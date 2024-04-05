@@ -1,3 +1,5 @@
+//! Symbols
+
 /// ATM_sign 🏧 (U+1F3E7)
 pub fn atm_sign() -> String {
     "\u{1F3E7}".to_string()

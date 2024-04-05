@@ -14,6 +14,9 @@ homepage = "https://arteiii.github.io"
 
 
 [features]
+# Default features enabled for documentation on docs.rs
+default = ["activities", "animals_and_nature", "component", "flags", "food_and_drink", "objects", "people_and_body", "smileys_and_emotion", "symbols", "travel_and_places"]
+
 activities = []
 animals_and_nature = []
 component = []

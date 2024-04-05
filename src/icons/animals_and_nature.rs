@@ -1,3 +1,5 @@
+//! Animals & Nature
+
 /// monkey 🐵 (U+1F435)
 pub fn monkey() -> String {
     "\u{1F435}".to_string()

@@ -1,3 +1,5 @@
+//! Smileys & Emotion
+
 /// grinning_face 😀 (U+1F600)
 pub fn grinning_face() -> String {
     "\u{1F600}".to_string()

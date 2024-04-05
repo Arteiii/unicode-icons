@@ -1,3 +1,5 @@
+//! Travel & Places
+
 /// globe_showing_Europe_Africa 🌍 (U+1F30D)
 pub fn globe_showing_europe_africa() -> String {
     "\u{1F30D}".to_string()

@@ -1,3 +1,5 @@
+//! Objects
+
 /// glasses 👓 (U+1F453)
 pub fn glasses() -> String {
     "\u{1F453}".to_string()

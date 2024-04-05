@@ -1,3 +1,5 @@
+//! People & Body
+
 /// waving_hand 👋 (U+1F44B)
 pub fn waving_hand() -> String {
     "\u{1F44B}".to_string()

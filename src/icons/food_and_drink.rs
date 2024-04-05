@@ -1,3 +1,5 @@
+//! Food & Drink
+
 /// grapes 🍇 (U+1F347)
 pub fn grapes() -> String {
     "\u{1F347}".to_string()

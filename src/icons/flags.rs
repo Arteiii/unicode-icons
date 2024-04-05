@@ -1,3 +1,5 @@
+//! Flags
+
 /// chequered_flag 🏁 (U+1F3C1)
 pub fn chequered_flag() -> String {
     "\u{1F3C1}".to_string()
