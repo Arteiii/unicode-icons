@@ -16,11 +16,16 @@
 //! * [travel_and_places](./travel_and_places/index.html)
 //!
 //! all are default
-//! 
+//!
 //! ## Usage
 //!
 //! ```rust
-//! use unicode_icons::{activities, flags};
+//! // examples/main.rs
+//!
+//! use unicode_icons::icons::{activities, flags};
+//!
+//! let format_string = format!("{} a string using format", activities::bullseye());
+//! println!("{}", format_string);
 //!
 //! println!("Christmas Tree: {}", activities::christmas_tree());
 //! println!("Cedy Flag: {}", flags::rainbow_flag());
@@ -32,6 +37,7 @@
 //!
 //! ````shell
 //! $ cargo run --example main
+//!     🎯 a string using format
 //!     Christmas Tree: 🎄
 //!     Cedy Flag: 🏳️‍🌈
 //! ````
@@ -44,6 +50,17 @@
 //!
 //! ### Copyright (c) 2024 Ben
 
+use std::fmt;
+
 pub mod icons;
+
+/// wrapper struct to implement display trait
+pub struct Emoticon(pub String);
+
+impl fmt::Display for Emoticon {
+    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
+        write!(f, "{}", self.0)
+    }
+}
 
 // from https://www.unicode.org/emoji/charts/full-emoji-list.html and others IDK rn
