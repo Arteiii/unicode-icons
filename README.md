@@ -22,9 +22,12 @@ full list at: [DOCS.RS](https://docs.rs/unicode-icons)
 ````rust
 // examples/main.rs
 
-use unicode_icons::{activities, flags};
+use unicode_icons::icons::{activities, flags};
 
 fn main() {
+    let format_string = format!("{} a string using format", activities::bullseye());
+
+    println!("{}", format_string);
     println!("Christmas Tree: {}", activities::christmas_tree());
     println!("Cedy Flag: {}", flags::rainbow_flag());
 }
@@ -34,6 +37,7 @@ fn main() {
 
 ````shell
 $ cargo run --example main
+    🎯 a string using format
     Christmas Tree: 🎄
     Cedy Flag: 🏳️‍🌈
 ````
